@@ -57,5 +57,5 @@ medical_symptom_checker/
 CREDITS:
 Developed by Parth Bhatt
 License: MIT License
-GitHub: https://github.com/<your-username>/AI-ML-Projects
+GitHub: https://github.com/<parthbhatt11>/AI-ML-Projects
 ----------------------------------------
