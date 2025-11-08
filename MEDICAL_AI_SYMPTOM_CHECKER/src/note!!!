@@ -1,0 +1,50 @@
+===============================================
+📘 NOTE — TRAIN MODEL BEFORE USING APPLICATION
+===============================================
+
+Before using the Medical AI Predictor or launching the main app,
+you MUST first run the training script to create required .pkl files.
+
+-----------------------------------------------
+🔹 STEP 1: RUN TRAINING SCRIPT
+-----------------------------------------------
+Execute the following command in your terminal:
+
+    python train_custom_model.py
+
+This will:
+  • Load and clean dataset  → data/medical_dataset_cleaned.csv
+  • Train the Random Forest Classifier
+  • Encode disease labels using LabelEncoder
+  • Generate binary symptom matrix
+  • Save trained models inside the "models" folder:
+
+        models/custom_predictor.pkl
+        models/label_encoder.pkl
+        models/symptom_columns.pkl
+
+-----------------------------------------------
+🔹 STEP 2: VERIFY SUCCESSFUL TRAINING
+-----------------------------------------------
+After successful run, you will see:
+
+    ✅ Custom Medical AI model, encoder, and symptom columns saved successfully!
+    🧬 Total Symptoms Learned: [number]
+    🦠 Total Diseases Trained: [number]
+
+-----------------------------------------------
+🔹 STEP 3: USE IN MAIN APPLICATION
+-----------------------------------------------
+Once these .pkl files are generated,
+you can safely run your main application (for example: app.py).
+
+If these files are missing or not created,
+the app will show an error like:
+
+    FileNotFoundError: 'models/custom_predictor.pkl' not found
+
+So always train the model once before using the app.
+-----------------------------------------------
+
+✅ END OF FILE
+===============================================
