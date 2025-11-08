@@ -1,0 +1,552 @@
+Disease,Symptoms,Severity,Description,Precautions
+# ------------------ RESPIRATORY ------------------
+Common Cold,fever;cough;sore_throat;runny_nose;tiredness;congestion, Mild, A mild viral infection affecting the upper respiratory tract., Rest;Hydrate;Avoid cold exposure;Steam inhalation
+Flu,fever;cough;chills;headache;body_ache;fatigue;sore_throat, Moderate, A viral respiratory infection causing fever and fatigue., Rest;Hydrate;Monitor fever
+COVID-19,fever;cough;loss_of_smell;loss_of_taste;fatigue;shortness_of_breath;chills, Severe, A contagious viral infection affecting the respiratory system., Isolation;Wear mask;Monitor oxygen;Seek medical care
+Pneumonia,fever;cough;chest_pain;phlegm;shortness_of_breath;fatigue, Severe, Lung infection causing breathing difficulty and chest discomfort., Antibiotics;Hydration;Rest;Doctor follow-up
+Bronchitis,cough;phlegm;wheezing;chest_congestion;fatigue, Moderate, Inflammation of bronchial tubes causing mucus buildup and cough., Avoid smoking;Steam inhalation;Rest
+Asthma,wheezing;shortness_of_breath;cough;chest_tightness, Chronic, Chronic airway inflammation causing wheezing and breathlessness., Inhaler;Avoid allergens;Breathing exercises
+Sinusitis,facial_pain;headache;blocked_nose;congestion;fever;cough, Mild, Sinus cavity inflammation leading to facial pressure and headache., Steam inhalation;Decongestant;Rest
+Laryngitis,hoarse_voice;sore_throat;fever;dry_cough, Mild, Voice box inflammation causing hoarseness and throat irritation., Voice rest;Warm fluids
+Tuberculosis,fever;chronic_cough;night_sweats;weight_loss;chest_pain, Severe, Bacterial infection of lungs that spreads through air., Antibiotics;Regular treatment;Avoid close contact
+Whooping Cough,severe_cough;vomiting;runny_nose;fatigue, Moderate, Bacterial infection causing uncontrollable coughs., Antibiotics;Rest
+Pleurisy,chest_pain;shortness_of_breath;fever;cough, Severe, Inflammation of the lung lining causing sharp chest pain., Pain relief;Rest;Treat underlying cause
+
+# ------------------ GASTROINTESTINAL ------------------
+Gastritis,stomach_pain;nausea;vomiting;bloating;indigestion, Moderate, Stomach lining inflammation often from infection or stress., Avoid spicy foods;Eat small meals;Hydrate
+Gastroenteritis,diarrhea;vomiting;abdominal_cramps;fever, Moderate, Intestinal infection causing diarrhea and cramps., ORS;Rest;Avoid street food
+Food Poisoning,diarrhea;vomiting;fever;stomach_pain;cramps, Moderate, Illness caused by contaminated food or water., Drink ORS;Avoid junk food;Rest
+Irritable Bowel Syndrome,abdominal_pain;bloating;constipation;diarrhea, Chronic, Digestive disorder causing abdominal discomfort., Fiber diet;Stress management
+Peptic Ulcer,stomach_pain;burning_sensation;nausea;vomiting, Moderate, Stomach lining erosion from acid., Avoid caffeine;Medication
+Appendicitis,abdominal_pain;nausea;vomiting;fever;loss_of_appetite, Severe, Inflammation of the appendix causing severe lower-right pain., Surgery;Avoid food intake
+Hepatitis,fever;jaundice;fatigue;abdominal_pain;dark_urine, Severe, Liver inflammation from viral infection or toxins., Avoid alcohol;Rest;Doctor care
+Gallstones,abdominal_pain;nausea;vomiting;jaundice, Severe, Hardened bile deposits causing gallbladder pain., Low-fat diet;Surgery
+Pancreatitis,severe_abdominal_pain;nausea;vomiting;fever, Severe, Pancreas inflammation often due to alcohol or gallstones., No alcohol;Hospital treatment
+Constipation,hard_stools;abdominal_discomfort;bloating;fatigue, Mild, Difficulty in passing stool regularly., Fiber-rich diet;Hydration
+Acid Reflux (GERD),heartburn;chest_pain;acid_reflux;nausea, Chronic, Backflow of acid from stomach into esophagus., Eat small meals;Avoid spicy foods;Don’t lie after eating
+
+# ------------------ CARDIOVASCULAR ------------------
+Heart Attack,chest_pain;shortness_of_breath;nausea;sweating;pain_left_arm, Severe, Blockage of coronary artery causing tissue death., Call emergency;Aspirin;Rest
+Hypertension,headache;dizziness;fatigue;chest_pain, Chronic, Persistently high blood pressure causing heart strain., Low-salt diet;Exercise
+Arrhythmia,palpitations;dizziness;shortness_of_breath;fatigue, Moderate, Irregular heartbeat leading to fainting or tiredness., ECG check;Avoid caffeine
+Atherosclerosis,chest_pain;fatigue;shortness_of_breath, Chronic, Hardening of arteries causing reduced blood flow., Exercise;Diet control
+Stroke,headache;weakness;slurred_speech;confusion;numbness, Severe, Loss of brain blood flow causing paralysis., Emergency help;Rehabilitation
+Anemia,fatigue;pale_skin;shortness_of_breath;weakness, Moderate, Low hemoglobin or red blood cell levels., Iron-rich diet;Supplements
+Angina,chest_pain;fatigue;shortness_of_breath,Severe,"Reduced blood flow to the heart causing chest pain. It often precedes heart attack if untreated.","Avoid exertion;Take nitrates;Monitor ECG"
+Cardiomyopathy,shortness_of_breath;fatigue;swelling;irregular_heartbeat,Severe,"A disease of the heart muscle that makes it harder to pump blood. It may lead to heart failure.","Medication;Avoid alcohol;Limit salt"
+Pericarditis,chest_pain;fever;fatigue;cough,Severe,"Inflammation of the pericardial sac surrounding the heart. Causes sharp chest pain that worsens when lying down.","Pain relief;Rest;Monitor ECG"
+Deep Vein Thrombosis,leg_pain;swelling;redness,Severe,"Blood clot formation in deep veins, usually legs. It can travel to lungs causing embolism.","Avoid long sitting;Compression socks;Anticoagulants"
+Varicose Veins,leg_pain;swelling;itching;visible_veins,Mild,"Enlarged, twisted veins caused by weak valves. They commonly appear in legs and worsen after standing long.","Exercise;Elevate legs;Avoid tight clothes"
+Endocarditis,fever;fatigue;chest_pain;shortness_of_breath,Severe,"Infection of the inner lining of the heart chambers or valves. It’s often bacterial and requires antibiotics.","Antibiotics;Hospitalization;Avoid IV drug use"
+Peripheral Artery Disease,leg_pain;cramps;numbness;weakness,Chronic,"Narrowing of arteries reduces blood supply to limbs. It can cause pain while walking.","Exercise;Quit smoking;Medication"
+Aortic Aneurysm,back_pain;abdominal_pain;pulsating_mass;fatigue,Severe,"A bulging weak spot in the aorta that can rupture. Immediate surgical attention is required if detected.","Monitor blood pressure;Surgery;Avoid heavy lifting"
+Pulmonary Embolism,shortness_of_breath;chest_pain;rapid_heartbeat;cough,Severe,"A blood clot blocking arteries in the lungs. It’s a life-threatening emergency requiring prompt care.","Hospitalization;Blood thinners;Avoid immobility"
+Heart Failure,fatigue;breathlessness;swelling;weight_gain,Chronic,"The heart fails to pump blood efficiently, leading to fluid buildup. It can result from long-term hypertension or heart disease.","Low-salt diet;Medication;Rest"
+
+# ------------------ NEUROLOGICAL ------------------
+Migraine,headache;nausea;vomiting;light_sensitivity;fatigue, Moderate, Severe throbbing headache due to nerve inflammation., Avoid triggers;Rest;Hydration
+Epilepsy,seizures;confusion;fainting;stiffness;unconsciousness, Chronic, Brain disorder with recurrent seizures., Medication;Avoid flashing lights
+Vertigo,dizziness;loss_of_balance;nausea;unsteady_walk, Moderate, Sensation of spinning or imbalance., Rest;Avoid sudden movement
+Parkinson’s Disease,tremors;stiffness;slow_movement;shaking;balance_problems, Chronic, Brain disorder causing tremors and stiffness., Medication;Physiotherapy
+Alzheimer’s Disease,memory_loss;confusion;disorientation;irritability, Chronic, Progressive brain disease causing memory decline., Supportive care
+Multiple Sclerosis,weakness;numbness;blurred_vision;fatigue;imbalance, Chronic, Autoimmune disease damaging nerve coverings., Physiotherapy;Medication
+Meningitis,fever;stiff_neck;headache;nausea;sensitivity_to_light, Severe, Inflammation of membranes surrounding brain and spine., Hospitalization;Antibiotics
+Brain Tumor,headache;nausea;vomiting;confusion;seizures,Severe,"Abnormal growth of brain cells causing pressure and neurological deficits. Symptoms depend on tumor location.","Surgery;Radiation therapy;Regular monitoring"
+Encephalitis,fever;headache;seizures;confusion;stiff_neck,Severe,"Inflammation of the brain due to viral infection. It requires urgent medical treatment to prevent damage.","Hospitalization;Antivirals;Hydration"
+Bell’s Palsy,facial_droop;weakness;tearing;ear_pain,Mild,"Sudden paralysis of facial muscles due to nerve inflammation. Usually resolves within weeks with treatment.","Physical therapy;Protect eye;Medication"
+Guillain-Barre Syndrome,weakness;numbness;tingling;paralysis,Severe,"An autoimmune condition attacking peripheral nerves. It may progress rapidly and affect breathing.","Hospitalization;IVIG therapy;Monitor breathing"
+Carpal Tunnel Syndrome,hand_pain;numbness;tingling;weak_grip,Mild,"Compression of the median nerve in the wrist causing pain and numbness. Common in repetitive hand movements.","Wrist splint;Physiotherapy;Avoid strain"
+Peripheral Neuropathy,numbness;tingling;burning_sensation;weakness,Chronic,"Damage to peripheral nerves causing pain or loss of sensation. Diabetes and toxins are common causes.","Monitor glucose;Pain relief;Vitamin supplements"
+ALS (Motor Neuron Disease),weakness;speech_difficulty;muscle_wasting,Severe,"A degenerative nerve disorder leading to muscle paralysis. Gradual progression affects speaking and breathing.","Physiotherapy;Assistive devices;Palliative care"
+Cerebral Palsy,muscle_stiffness;poor_coordination;speech_difficulty,Chronic,"A group of disorders affecting movement and posture from birth injury. It’s non-progressive but lifelong.","Physiotherapy;Occupational therapy;Supportive care"
+Narcolepsy,excessive_sleepiness;hallucinations;cataplexy;fatigue,Chronic,"A neurological sleep disorder causing sudden sleep attacks. It affects concentration and safety.","Regular sleep schedule;Medication;Avoid caffeine"
+Dementia,memory_loss;confusion;disorientation;agitation,Chronic,"A group of conditions causing decline in cognitive ability. Alzheimer’s is the most common cause.","Cognitive therapy;Safe environment;Support"
+
+
+
+
+# ------------------ DERMATOLOGICAL ------------------
+Fungal Infection,itching;skin_rash;redness;scaling, Mild, Fungal growth on skin or scalp causing irritation., Keep clean;Antifungal cream
+Eczema,itching;dry_skin;inflammation;cracks, Chronic, Skin condition causing dryness and redness., Moisturize;Avoid soap
+Psoriasis,thick_skin;scaling;red_patches;itching, Chronic, Autoimmune condition causing dry, scaly skin., Moisturize;Phototherapy
+Contact Dermatitis,itching;burning;redness;blisters, Mild, Skin reaction to irritants or allergens., Avoid irritant;Use cream
+Acne,pimples;greasy_skin;inflammation;blackheads, Mild, Blocked pores leading to bacterial infection., Wash face;Avoid oil;Topical cream
+Sunburn,redness;pain;blistering;swelling, Mild, Skin injury from UV radiation., Cool compress;Aloe vera;Avoid sun
+
+# ------------------ ENDOCRINE ------------------
+Diabetes,excessive_thirst;frequent_urination;fatigue;weight_loss;blurred_vision, Chronic, High blood sugar due to insulin deficiency., Diet;Exercise;Medication
+Hypothyroidism,fatigue;weight_gain;hair_loss;cold_intolerance, Chronic, Underactive thyroid causing low metabolism., Medication;Balanced diet
+Hyperthyroidism,weight_loss;anxiety;rapid_heartbeat;sweating;irritability, Chronic, Overactive thyroid increasing metabolism., Medication;Avoid caffeine
+PCOS,irregular_periods;weight_gain;hair_loss;acne, Chronic, Hormonal disorder in women causing infertility., Exercise;Balanced diet
+Obesity,weight_gain;fatigue;joint_pain;breathlessness, Chronic, Excessive body fat increasing health risks., Exercise;Diet;Lifestyle control
+Addison’s Disease,fatigue;weight_loss;low_blood_pressure;dizziness,Chronic,"A rare endocrine disorder where adrenal glands don’t produce enough hormones. It causes weakness, dehydration, and salt craving.","Corticosteroid therapy;Adequate salt intake;Regular medical follow-up"
+Cushing’s Syndrome,weight_gain;round_face;muscle_weakness;fatigue,Chronic,"Excess cortisol in the body due to tumor or medication. It leads to central obesity and fragile skin.","Medication;Surgery if tumor;Monitor hormones"
+Acromegaly,headache;enlarged_hands;fatigue;joint_pain,Chronic,"Excess growth hormone secretion usually from pituitary tumor. It causes abnormal bone and tissue growth.","Surgery;Hormone therapy;Monitor pituitary levels"
+Pheochromocytoma,high_blood_pressure;headache;sweating;palpitations,Severe,"A rare adrenal gland tumor that produces excess adrenaline. It can trigger dangerous spikes in blood pressure.","Surgery;Monitor BP;Avoid stress"
+Diabetes Insipidus,excessive_thirst;frequent_urination;dehydration;fatigue,Chronic,"A condition where kidneys fail to conserve water due to hormone imbalance. It causes frequent urination and thirst.","Drink water frequently;Hormone therapy;Monitor electrolytes"
+Metabolic Syndrome,obesity;hypertension;high_cholesterol;fatigue,Chronic,"A cluster of metabolic abnormalities increasing heart disease risk. Linked with poor diet and inactivity.","Exercise;Balanced diet;Monitor blood sugar and BP"
+Hyperparathyroidism,bone_pain;fatigue;nausea;constipation,Chronic,"Overactive parathyroid glands increase calcium levels in blood. It causes kidney stones and bone weakness.","Surgery;Hydration;Limit calcium intake"
+Hypoparathyroidism,muscle_cramps;tingling;numbness;fatigue,Chronic,"Low parathyroid hormone levels cause calcium deficiency. It results in muscle spasms and irritability.","Calcium supplements;Vitamin D;Medical monitoring"
+Goiter,neck_swelling;difficulty_swallowing;hoarseness,Moderate,"Thyroid gland enlargement often due to iodine deficiency. Large goiters may cause breathing difficulty.","Iodized salt;Thyroid evaluation;Medication"
+Hypoglycemia,sweating;shaking;confusion;dizziness,Moderate,"Low blood sugar levels usually due to medication overdose. Immediate glucose intake is required to prevent fainting.","Eat sweets;Monitor glucose;Regular meals"
+
+
+# ------------------ RENAL/URINARY ------------------
+UTI,frequent_urination;burning_urination;lower_abdominal_pain;fever, Moderate, Urinary tract infection due to bacteria., Hydration;Antibiotics
+Kidney Stones,back_pain;pain_urination;nausea;vomiting, Severe, Solid crystals in kidneys causing pain., Drink water;Pain relief
+Kidney Failure,fatigue;swelling;nausea;urine_change, Severe, Loss of kidney function requiring dialysis., Dialysis;Low-salt diet
+
+# ------------------ REPRODUCTIVE ------------------
+Menstrual Cramps,abdominal_pain;fatigue;nausea;back_pain, Mild, Pain during menstruation due to uterine contractions., Heat therapy;Pain relief
+Endometriosis,pelvic_pain;back_pain;fatigue;heavy_bleeding, Chronic, Growth of uterine tissue outside uterus., Surgery;Hormonal therapy
+Prostatitis,frequent_urination;pelvic_pain;burning_urination, Moderate, Prostate gland inflammation causing pain., Antibiotics;Hydration
+Ovarian Cyst,abdominal_pain;irregular_periods;bloating;nausea,Moderate,"Fluid-filled sacs that develop on ovaries. Large cysts can cause discomfort or menstrual changes.","Regular ultrasound;Pain relief;Surgery if persistent"
+Fibroids,heavy_bleeding;pelvic_pain;back_pain;fatigue,Moderate,"Benign tumors in uterus causing heavy periods. They shrink after menopause or with treatment.","Medication;Surgery if severe;Iron supplementation"
+Pelvic Inflammatory Disease,fever;pelvic_pain;vaginal_discharge;nausea,Severe,"Bacterial infection of female reproductive organs. It may cause infertility if untreated.","Antibiotics;Rest;Avoid unprotected intercourse"
+Infertility,hormonal_imbalance;irregular_periods;stress;low_sperm_count,Chronic,"Inability to conceive after a year of regular intercourse. Can result from male or female reproductive problems.","Medical evaluation;Healthy lifestyle;Fertility therapy"
+Erectile Dysfunction,low_libido;stress;fatigue;anxiety,Moderate,"Inability to maintain erection due to physical or psychological causes. Often linked with diabetes or heart disease.","Avoid alcohol;Exercise;Medication"
+Prostate Cancer,frequent_urination;back_pain;fatigue;weight_loss,Severe,"A malignant tumor of the prostate gland in older men. Early stages are often symptomless.","Regular screening;Healthy diet;Treatment per stage"
+Ovarian Cancer,abdominal_pain;bloating;fatigue;weight_loss,Severe,"A malignancy of the ovaries that spreads silently. It’s detected late due to vague early symptoms.","Regular pelvic exam;Surgery;Chemotherapy"
+Endometrial Cancer,abnormal_bleeding;pelvic_pain;fatigue;weight_loss,Severe,"Cancer of uterine lining common after menopause. It often presents with abnormal vaginal bleeding.","Medical evaluation;Surgery;Radiation therapy"
+Cervical Cancer,abnormal_bleeding;pelvic_pain;vaginal_discharge,Severe,"Caused by persistent HPV infection. It is preventable through vaccination and screening.","HPV vaccine;Pap smear;Treatment per stage"
+Testicular Cancer,painless_swelling;heaviness_in_scrotum;fatigue,Severe,"A cancer in the testicles that mainly affects young men. Early detection ensures high cure rates.","Self-examination;Ultrasound;Oncology care"
+
+
+# ------------------ PSYCHIATRIC ------------------
+Depression,low_mood;hopelessness;fatigue;loss_of_interest;sleep_disturbance, Chronic, Persistent sadness affecting mental health., Therapy;Exercise;Medication
+Anxiety,restlessness;fear;fast_heartbeat;sweating;insomnia, Chronic, Excessive worry and uneasiness about events., Breathing exercises;Therapy
+Bipolar Disorder,mood_swings;depression;high_energy;insomnia, Chronic, Alternating episodes of mania and depression., Medication;Counseling
+Schizophrenia,hallucinations;confusion;disorganized_speech;withdrawal, Severe, Mental disorder causing hallucinations and delusions., Therapy;Medication
+Panic Attack,rapid_heartbeat;fear;sweating;chest_pain;shortness_of_breath, Moderate, Sudden intense anxiety with physical reactions., Deep breathing;Therapy
+Insomnia,difficulty_sleeping;restlessness;fatigue;irritability, Moderate, Inability to fall or stay asleep., Avoid caffeine;Regular sleep pattern
+Autism,social_difficulty;repetitive_behavior;delayed_speech, Chronic, Developmental disorder affecting communication., Therapy;Routine;Family support
+ADHD,hyperactivity;inattention;impulsiveness;restlessness, Chronic, Neurodevelopmental disorder causing hyperactivity., Focus training;Therapy
+
+# ------------------ MUSCULOSKELETAL ------------------
+Arthritis,joint_pain;swelling;stiffness;limited_movement, Chronic, Joint inflammation causing pain and swelling., Exercise;Pain relief
+Osteoporosis,bone_pain;fractures;back_pain;fatigue, Chronic, Weakening of bones increasing fracture risk., Calcium intake;Exercise
+Cervical Spondylosis,neck_pain;stiffness;shoulder_pain;headache, Chronic, Degeneration of neck vertebrae, Physiotherapy;Posture correction
+Sciatica,back_pain;leg_pain;numbness;tingling, Moderate, Nerve compression causing radiating leg pain., Stretching;Physiotherapy
+Gout,joint_pain;swelling;redness;warmth, Chronic, Uric acid buildup in joints causing pain., Avoid red meat;Hydrate
+Fibromyalgia,muscle_pain;fatigue;insomnia;headache,Chronic,"A chronic pain syndrome affecting muscles and soft tissues. Often associated with sleep problems and anxiety.","Stress reduction;Exercise;Pain relief"
+Tendonitis,joint_pain;swelling;stiffness;tenderness,Mild,"Inflammation of a tendon from repetitive strain. Common in shoulder, elbow, and wrist.","Rest;Cold compress;Physiotherapy"
+Bursitis,joint_pain;swelling;warmth;limited_movement,Moderate,"Inflammation of fluid-filled sacs (bursae) around joints. Common in knees and elbows due to overuse.","Rest;Pain relief;Avoid pressure"
+Carpal Tunnel Syndrome,hand_pain;numbness;tingling;weak_grip,Mild,"Nerve compression in the wrist causing pain and tingling. Common among computer users and factory workers.","Wrist support;Stretching;Ergonomic posture"
+Scoliosis,back_pain;uneven_shoulders;curved_spine,Chronic,"A curvature of the spine developing during growth. Severe cases may cause lung compression.","Bracing;Physiotherapy;Surgery if needed"
+Herniated Disc,back_pain;leg_pain;numbness;weakness,Moderate,"A slipped disc compresses spinal nerves causing pain and numbness. Common in the lumbar region.","Avoid heavy lifting;Physiotherapy;Surgery if severe"
+Tennis Elbow,elbow_pain;swelling;tenderness,Moderate,"Overuse of forearm muscles causes tendon inflammation. Pain worsens with gripping or lifting.","Rest;Pain relief;Physiotherapy"
+Frozen Shoulder,shoulder_pain;stiffness;limited_movement,Moderate,"Inflammation of shoulder capsule limits motion. Often follows injury or diabetes.","Stretching;Physiotherapy;Pain management"
+Rickets,bone_pain;weakness;deformity;growth_delay,Moderate,"Softening of bones due to Vitamin D deficiency in children. Leads to bowed legs and slow growth.","Vitamin D;Sunlight exposure;Diet management"
+Osteoarthritis,joint_pain;stiffness;swelling;limited_movement,Chronic,"Degenerative joint disease from cartilage wear. Common in knees, hips, and spine of older adults.","Exercise;Weight control;Pain medication"
+
+
+# ------------------ PEDIATRIC/INFECTIOUS ------------------
+Chickenpox,fever;itching;rash;blisters, Moderate, Viral infection causing itchy blisters., Avoid scratching;Rest
+Measles,fever;rash;cough;runny_nose;red_eyes, Moderate, Viral infection with rash and fever., Vaccination;Rest
+Mumps,fever;swollen_jaw;painful_swallowing, Moderate, Viral infection of salivary glands., Rest;Hydration
+Diphtheria,sore_throat;fever;fatigue;swollen_neck, Severe, Bacterial infection affecting throat., Vaccination;Antibiotics
+Tetanus,muscle_stiffness;lockjaw;spasms;fever, Severe, Bacterial infection causing muscle contractions., Vaccination;Emergency care
+Polio,weakness;paralysis;fever;muscle_pain, Severe, Viral infection affecting nerves, Vaccination;Rehabilitation
+
+# ------------------ ENVIRONMENTAL ------------------
+Heat Stroke,high_fever;confusion;dizziness;sweating;weakness, Severe, Overheating due to high temperature, Cool body;Hydrate
+Hypothermia,shivering;confusion;slow_heartbeat;fatigue, Severe, Dangerous drop in body temperature, Warm environment;Blankets
+Motion Sickness,nausea;vomiting;dizziness;sweating, Mild, Discomfort during travel, Focus on horizon;Avoid reading
+Dehydration,dry_mouth;thirst;dizziness;fatigue, Mild, Loss of body fluids due to heat or illness, Drink water;ORS solution
+Carbon Monoxide Poisoning,headache;dizziness;nausea;confusion,Severe,"Inhalation of carbon monoxide gas reduces oxygen in blood. It leads to confusion, fainting, or death.","Move to fresh air;Seek emergency care;Install detectors"
+Heat Exhaustion,heavy_sweating;weakness;dizziness;nausea,Moderate,"Prolonged heat exposure causes dehydration and salt loss. Can progress to heat stroke if untreated.","Cool environment;Drink water;Rest"
+Frostbite,numbness;discoloration;pain;swelling,Severe,"Freezing of skin and tissues due to extreme cold exposure. Commonly affects fingers, toes, ears, and nose.","Warm gradually;Avoid rubbing;Seek medical care"
+Altitude Sickness,headache;nausea;shortness_of_breath;fatigue,Moderate,"Occurs at high altitudes due to low oxygen. It causes dizziness and shortness of breath.","Descend to lower altitude;Rest;Oxygen therapy"
+Radiation Sickness,nausea;vomiting;fatigue;hair_loss,Severe,"Caused by excessive exposure to ionizing radiation. Damages cells and organs quickly.","Leave exposure zone;Hydrate;Seek immediate treatment"
+Chemical Burns,redness;blisters;pain;swelling,Severe,"Tissue injury due to corrosive chemical contact. Severity depends on exposure time and substance.","Rinse thoroughly;Avoid ointments;Seek emergency help"
+Occupational Asthma,cough;wheezing;shortness_of_breath;chest_tightness,Chronic,"Triggered by long-term exposure to workplace irritants. Early diagnosis prevents chronic damage.","Avoid irritants;Use masks;Medical monitoring"
+Noise-Induced Hearing Loss,hearing_loss;ringing_ears;fatigue,Chronic,"Caused by repeated exposure to loud noise damaging ear cells. It develops gradually and is irreversible.","Use ear protection;Limit exposure;Regular hearing test"
+
+
+# ------------------ IMMUNOLOGICAL ------------------
+Rheumatoid Arthritis,joint_pain;swelling;morning_stiffness;fatigue,Chronic,"An autoimmune disorder causing painful joint inflammation. Over time, it can lead to joint deformity if untreated.","Regular medication;Exercise;Healthy diet;Avoid smoking"
+Lupus,fatigue;joint_pain;skin_rash;fever,Chronic,"An autoimmune disease where the immune system attacks tissues and organs. It affects joints, kidneys, and skin.","Avoid sun exposure;Take prescribed meds;Regular monitoring"
+Celiac Disease,abdominal_pain;diarrhea;weight_loss;fatigue,Chronic,"A gluten intolerance causing damage to the small intestine. Symptoms improve with a gluten-free diet.","Avoid gluten;Consult dietitian;Eat naturally gluten-free foods"
+Hashimoto’s Thyroiditis,fatigue;weight_gain;cold_intolerance;depression,Chronic,"An autoimmune condition causing hypothyroidism. The immune system gradually destroys the thyroid gland.","Medication;Regular thyroid tests;Balanced diet"
+Graves’ Disease,weight_loss;anxiety;rapid_heartbeat;sweating,Chronic,"An autoimmune disorder causing overactive thyroid (hyperthyroidism). It increases metabolism and heart rate.","Avoid caffeine;Medication;Monitor thyroid levels"
+Sarcoidosis,cough;fatigue;chest_pain;rash,Chronic,"An inflammatory disease forming tiny clumps of cells in lungs and lymph nodes. It can affect multiple organs.","Medication;Avoid smoking;Regular doctor follow-up"
+Ankylosing Spondylitis,back_pain;stiffness;fatigue;reduced_flexibility,Chronic,"A form of arthritis that mainly affects the spine and pelvis joints. It causes chronic back pain and stiffness.","Exercise;Posture correction;Anti-inflammatory drugs"
+Myasthenia Gravis,muscle_weakness;fatigue;drooping_eyelids;difficulty_swallowing,Chronic,"A neuromuscular disorder causing weakness in voluntary muscles. Symptoms worsen with activity and improve with rest.","Medication;Rest periods;Avoid overheating"
+Scleroderma,skin_thickening;stiffness;fatigue;swelling,Chronic,"An autoimmune disease causing hardening and tightening of skin and tissues. It can affect internal organs too.","Moisturize skin;Exercise;Avoid cold"
+Psoriatic Arthritis,joint_pain;swelling;scaling_skin;fatigue,Chronic,"An autoimmune disease combining psoriasis and arthritis. It causes joint inflammation and skin lesions.","Use topical treatment;Exercise;Pain relief"
+
+# ------------------ DIGESTIVE/LIVER ------------------
+Hepatitis B,jaundice;fatigue;fever;abdominal_pain;nausea,Severe,"A viral liver infection transmitted through blood or fluids. It can lead to chronic liver disease.","Vaccination;Avoid alcohol;Doctor monitoring"
+Hepatitis C,jaundice;fatigue;joint_pain;dark_urine,Severe,"A viral liver infection spread through contaminated needles. Chronic infection can cause cirrhosis or cancer.","Antiviral therapy;Avoid alcohol;Regular testing"
+Fatty Liver Disease,fatigue;abdominal_discomfort;nausea,Chronic,"Accumulation of fat in liver cells causing mild inflammation. It’s common in obesity or alcohol overuse.","Lose weight;Avoid alcohol;Healthy diet"
+Cirrhosis,abdominal_pain;swelling;jaundice;fatigue,Severe,"Chronic liver scarring from alcohol or hepatitis damage. It impairs detoxification and nutrient metabolism.","Avoid alcohol;Low-salt diet;Doctor supervision"
+Hemorrhoids,pain_while_passing_stool;bleeding;itching;swelling,Moderate,"Swollen veins in the rectum or anus causing pain and itching. Straining or constipation worsens symptoms.","High-fiber diet;Drink water;Avoid sitting long"
+Gastroesophageal Ulcer,stomach_pain;nausea;vomiting;black_stools,Moderate,"A peptic ulcer caused by stomach acid erosion. It causes sharp pain and indigestion.","Medication;Avoid spicy food;No alcohol"
+Colitis,diarrhea;abdominal_pain;fatigue;blood_in_stool,Severe,"Inflammation of the colon lining leading to cramps and urgency. It may be ulcerative or infectious.","Hydration;Medication;Avoid processed foods"
+Crohn’s Disease,abdominal_pain;weight_loss;diarrhea;fatigue,Chronic,"A chronic inflammatory bowel disease affecting any digestive part. It alternates between flare-ups and remission.","Healthy diet;Medication;Avoid stress"
+Lactose Intolerance,bloating;gas;diarrhea;cramps,Mild,"Inability to digest lactose from milk due to enzyme deficiency. Causes discomfort after dairy consumption.","Avoid dairy;Use lactose-free products;Take lactase supplements"
+Anal Fissure,pain_during_stool;bleeding;itching,Moderate,"A small tear in the anal lining due to hard stool. It causes sharp pain during bowel movements.","Drink water;Fiber diet;Topical ointment"
+
+# ------------------ INFECTIOUS (EXTENDED) ------------------
+Typhoid Fever,fever;headache;abdominal_pain;constipation;nausea,Severe,"A bacterial infection from contaminated food or water. It causes prolonged fever and weakness.","Antibiotics;Hydration;Avoid street food"
+Dengue,fever;rash;joint_pain;muscle_pain;headache;fatigue,Severe,"A mosquito-borne viral disease causing low platelets and bleeding. Severe cases lead to shock.","Avoid mosquito bites;Hydrate;Monitor platelets"
+Chikungunya,fever;joint_pain;rash;headache;fatigue,Moderate,"A viral illness spread by mosquitoes causing severe joint pain. Recovery may take several weeks.","Hydration;Rest;Pain management"
+Malaria,fever;chills;vomiting;headache;sweating,Severe,"A mosquito-borne infection caused by *Plasmodium* parasites. It leads to cyclic fever and chills.","Use mosquito nets;Antimalarial drugs;Hydration"
+Leptospirosis,fever;chills;muscle_pain;vomiting;headache,Severe,"A bacterial disease transmitted through water contaminated with animal urine. It can affect kidneys and liver.","Avoid dirty water;Wear boots;Antibiotics"
+HIV/AIDS,fever;fatigue;weight_loss;swollen_lymph_nodes,Chronic,"A viral infection that weakens the immune system. It increases susceptibility to opportunistic infections.","Safe sex;Regular ART therapy;Balanced diet"
+Rabies,fever;tingling;anxiety;hydrophobia,Severe,"A fatal viral disease transmitted by bites of infected animals. It affects the brain and nerves.","Vaccination;Immediate medical care;Avoid animal bites"
+Tetanus,muscle_stiffness;lockjaw;spasms;fever,Severe,"A bacterial infection releasing toxins that cause muscle rigidity. It can be prevented by vaccination.","Vaccination;Wound care;Emergency treatment"
+Plague,fever;chills;swollen_lymph_nodes;fatigue,Severe,"A rare bacterial disease spread by fleas on rodents. Untreated plague can be fatal.","Antibiotics;Avoid rodents;Maintain hygiene"
+Zika Virus,fever;rash;joint_pain;red_eyes,Moderate,"A mosquito-borne viral infection that can cause birth defects. Pregnant women are at special risk.","Avoid mosquito bites;Hydrate;Rest"
+Ebola,fever;vomiting;bleeding;weakness;diarrhea,Severe,"A severe viral hemorrhagic fever with high fatality. Spread occurs through body fluids.","Isolation;Hydration;Supportive care"
+Smallpox,fever;rash;blisters;fatigue,Severe,"A now-eradicated viral disease causing pustular rash and fever. It was eliminated by vaccination worldwide.","Vaccination history;Report suspected cases"
+Hantavirus,fever;muscle_pain;cough;shortness_of_breath,Severe,"A virus from rodent droppings causing lung disease. It can progress rapidly to respiratory failure.","Avoid rodent exposure;Maintain hygiene"
+Yellow Fever,fever;jaundice;muscle_pain;vomiting,Severe,"A mosquito-transmitted viral infection affecting liver and kidneys. Vaccination offers lifelong protection.","Vaccination;Hydration;Avoid mosquitoes"
+
+# ------------------ METABOLIC & NUTRITIONAL ------------------
+Vitamin D Deficiency,fatigue;bone_pain;weakness;depression,Mild,"Low vitamin D impairs calcium absorption and bone health. It can cause rickets in children or osteomalacia in adults.","Sun exposure;Vitamin D supplements;Balanced diet"
+Iron Deficiency,fatigue;pale_skin;dizziness;headache,Moderate,"Low iron intake or blood loss reduces hemoglobin levels. It causes tiredness and poor concentration.","Iron-rich diet;Supplements;Regular check-ups"
+Calcium Deficiency,muscle_cramps;numbness;weak_bones;tingling,Mild,"Insufficient calcium weakens bones and affects nerves. Long-term deficiency may lead to osteoporosis.","Consume dairy;Vitamin D intake;Exercise"
+Protein Deficiency,fatigue;weight_loss;weakness;hair_loss,Moderate,"Inadequate protein intake leads to muscle wasting and poor immunity. Common in malnutrition or chronic illness.","Eat legumes, eggs, meat;Balanced meals"
+Kwashiorkor,swelling;fatigue;irritability;skin_peeling,Severe,"Severe protein deficiency in children causing edema and stunted growth. Common in famine-hit areas.","Protein-rich diet;Gradual feeding;Medical supervision"
+Marasmus,weight_loss;weakness;sunken_eyes;fatigue,Severe,"Caloric deficiency causing severe wasting and weakness. It occurs in extreme malnutrition.","High-calorie diet;Gradual refeeding;Medical care"
+Scurvy,bleeding_gums;weakness;joint_pain;fatigue,Mild,"Vitamin C deficiency affecting collagen synthesis. Causes gum bleeding and poor wound healing.","Eat citrus fruits;Vitamin C supplements"
+Rickets,bone_pain;bowed_legs;weakness;growth_delay,Moderate,"Vitamin D deficiency in children causing soft, deformed bones. Early treatment prevents permanent changes.","Vitamin D intake;Sunlight;Calcium supplements"
+Obesity,weight_gain;fatigue;joint_pain;breathlessness,Chronic,"Excess body fat accumulation leading to metabolic disorders. It increases risk of diabetes and heart disease.","Balanced diet;Exercise;Lifestyle modification"
+Hypercholesterolemia,high_cholesterol;fatigue;chest_pain,Chronic,"Elevated blood cholesterol increasing risk of heart attack. Often linked with poor diet and genetics.","Diet control;Exercise;Medication"
+
+# ------------------ CANCER & ONCOLOGY ------------------
+Breast Cancer,lump_in_breast;pain;fatigue;weight_loss,Severe,"A malignant tumor in breast tissue, often detected as a lump or skin dimpling. Early detection greatly improves outcomes.","Self-examination;Regular screening;Oncology treatment"
+Lung Cancer,cough;chest_pain;shortness_of_breath;weight_loss,Severe,"A cancer starting in lung tissue often linked with smoking or pollutants. Persistent cough and fatigue are early signs.","Avoid smoking;CT scan screening;Chemotherapy"
+Colon Cancer,blood_in_stool;fatigue;abdominal_pain;weight_loss,Severe,"Cancer of the large intestine that grows silently for years. Detected through colonoscopy and biopsy.","High-fiber diet;Screening tests;Surgery"
+Pancreatic Cancer,abdominal_pain;jaundice;weight_loss;fatigue,Severe,"A deadly cancer with few early symptoms, often discovered late. It affects digestion and liver function.","Avoid smoking;Healthy diet;Early testing if family history"
+Liver Cancer,jaundice;abdominal_pain;fatigue;weight_loss,Severe,"A cancer that develops from chronic hepatitis or cirrhosis. Causes yellowing of skin and upper-abdominal pain.","Avoid alcohol;Hepatitis prevention;Oncology care"
+Leukemia,fever;fatigue;bruising;weight_loss,Severe,"A cancer of blood-forming tissues, disrupting white blood cell function. Leads to frequent infections and bleeding.","Chemotherapy;Bone marrow transplant;Regular blood tests"
+Lymphoma,swollen_lymph_nodes;fever;night_sweats;fatigue,Severe,"Cancer of lymphatic system causing immune dysfunction. Symptoms include painless lymph node swelling and fever.","Chemotherapy;Radiation;Medical monitoring"
+Skin Cancer,skin_lesion;itching;bleeding_mole;discoloration,Severe,"Abnormal skin cell growth due to UV exposure. Early recognition of changing moles is crucial.","Avoid sun;Use sunscreen;Dermatologist check"
+Prostate Cancer,frequent_urination;fatigue;back_pain;pelvic_pain,Severe,"Common in older men, this cancer grows slowly in the prostate gland. Regular PSA screening detects early cases.","Regular screening;Healthy diet;Treatment per stage"
+Ovarian Cancer,abdominal_bloating;fatigue;weight_loss;nausea,Severe,"A malignancy of the ovaries that spreads silently. Early stages have vague symptoms like bloating and discomfort.","Regular pelvic check;Ultrasound;Surgery"
+
+# ------------------ GENETIC & CONGENITAL DISORDERS ------------------
+Down Syndrome,flat_face;learning_difficulty;delayed_growth,Chronic,"A chromosomal disorder (Trisomy 21) causing intellectual disability and distinctive features. Early therapy improves development.","Speech therapy;Special education;Medical follow-up"
+Cystic Fibrosis,cough;shortness_of_breath;salty_skin;weight_loss,Chronic,"A genetic disorder affecting mucus glands and lungs. Leads to chronic lung infections and poor digestion.","Airway clearance;Antibiotics;High-calorie diet"
+Sickle Cell Anemia,fatigue;pain;fever;yellow_skin,Chronic,"Inherited blood disorder causing abnormally shaped red blood cells. Results in pain crises and anemia.","Hydration;Pain relief;Avoid cold"
+Hemophilia,excessive_bleeding;bruising;joint_pain,Severe,"Genetic clotting disorder causing prolonged bleeding. Mostly affects males due to X-linked mutation.","Avoid injuries;Clotting factor therapy"
+Thalassemia,fatigue;pale_skin;weakness;enlarged_spleen,Chronic,"A hereditary anemia causing reduced hemoglobin production. Requires lifelong blood transfusion in severe forms.","Regular transfusion;Iron chelation;Genetic counseling"
+Turner Syndrome,short_stature;infertility;swelling;heart_defects,Chronic,"A genetic disorder in females missing one X chromosome. Causes growth delay and infertility.","Hormone therapy;Heart monitoring;Supportive care"
+Klinefelter Syndrome,tall_stature;infertility;fatigue;learning_difficulty,Chronic,"Genetic condition in males with extra X chromosome. Leads to low testosterone and learning issues.","Testosterone therapy;Counseling;Regular check-ups"
+Marfan Syndrome,tall_build;joint_pain;chest_pain;vision_problems,Chronic,"A connective tissue disorder affecting heart and eyes. People are tall and at risk of aortic rupture.","Avoid heavy exercise;Heart monitoring;Genetic counseling"
+Albinism,white_hair;light_skin;poor_vision;sensitivity_to_light,Chronic,"Inherited condition with lack of melanin pigment. Affects skin protection and vision.","Avoid sun exposure;Use sunglasses;Skin protection"
+Fragile X Syndrome,learning_difficulty;anxiety;behavioral_problems,Chronic,"A genetic cause of intellectual disability, more common in males. It may present with hyperactivity and speech delay.","Behavioral therapy;Special education;Family support"
+
+# ------------------ EYE & EAR DISORDERS ------------------
+Cataract,blurred_vision;glare;poor_night_vision,Moderate,"Clouding of the eye lens causing gradual vision loss. Surgery restores normal sight.","Wear sunglasses;Regular eye exams;Surgery if needed"
+Glaucoma,blurred_vision;eye_pain;headache;halos_around_lights,Severe,"Increased eye pressure damages optic nerve. Leads to permanent vision loss if untreated.","Eye drops;Regular eye check;Surgery in severe cases"
+Conjunctivitis,red_eyes;itching;watering;swelling,Mild,"Also called pink eye, it’s inflammation of the eye membrane. Caused by infection or allergy.","Avoid touching eyes;Use prescribed drops;Maintain hygiene"
+Macular Degeneration,blurred_vision;distorted_vision;central_blind_spot,Chronic,"Aging-related damage to retina’s center (macula). It causes progressive vision loss in older adults.","Healthy diet;Avoid smoking;Eye supplements"
+Retinal Detachment,flashes_of_light;vision_loss;floaters,Severe,"Separation of retina from its layer leading to blindness. Requires emergency surgery.","Seek immediate care;Avoid heavy activity;Eye protection"
+Otitis Media,ear_pain;hearing_loss;fever;irritability,Moderate,"Middle ear infection common in children. Causes pain and fluid buildup behind the eardrum.","Pain relief;Keep ears dry;Antibiotics if bacterial"
+Otitis Externa,itching;ear_pain;discharge;swelling,Mild,"Infection of outer ear canal caused by moisture (swimmer’s ear). It leads to itching and pain.","Avoid water;Use ear drops;Keep ear clean"
+Tinnitus,ringing_in_ears;hearing_loss;irritability,Chronic,"A persistent ringing or buzzing in the ears without external sound. Often caused by loud noise exposure.","Avoid loud noise;Relaxation techniques;Hearing test"
+Meniere’s Disease,dizziness;ringing_ears;hearing_loss;nausea,Chronic,"Inner ear disorder causing vertigo and hearing loss. Attacks may last hours and cause imbalance.","Low-salt diet;Avoid caffeine;Medication"
+Color Blindness,difficulty_distinguishing_colors;eye_strain,Chronic,"Inherited condition affecting color perception. Commonly red-green color blindness in men.","Color aids;Avoid confusion in labeling;Genetic counseling"
+
+# ------------------ AUTOIMMUNE & INFLAMMATORY ------------------
+Rheumatoid Arthritis,joint_pain;swelling;stiffness;fatigue,Chronic,"An autoimmune disease attacking joint linings. It causes pain, deformity, and disability if untreated.","Medication;Exercise;Low-stress life"
+Lupus,fatigue;skin_rash;joint_pain;fever,Chronic,"An autoimmune disease damaging multiple organs and skin. Triggers include stress and sunlight.","Avoid sunlight;Medication;Regular tests"
+Sjögren’s Syndrome,dry_mouth;dry_eyes;fatigue;joint_pain,Chronic,"An autoimmune disorder affecting tear and saliva glands. Causes dryness and discomfort in mouth and eyes.","Stay hydrated;Eye drops;Medication"
+Psoriatic Arthritis,joint_pain;scaling_skin;fatigue;stiffness,Chronic,"Combination of psoriasis and arthritis symptoms. It affects both skin and joints.","Moisturizer;Anti-inflammatory drugs;Exercise"
+Vasculitis,fever;rash;joint_pain;fatigue,Severe,"Inflammation of blood vessels reducing blood flow. It can damage organs if untreated.","Steroids;Avoid infection;Medical care"
+Autoimmune Hepatitis,abdominal_pain;jaundice;fatigue;dark_urine,Chronic,"The immune system attacks liver cells causing inflammation. Early treatment prevents cirrhosis.","Medication;Avoid alcohol;Regular liver function tests"
+Guillain-Barré Syndrome,weakness;numbness;paralysis;tingling,Severe,"A rare condition where the immune system attacks nerves. It can cause paralysis and respiratory failure.","Hospitalization;IV therapy;Physiotherapy"
+Celiac Disease,bloating;diarrhea;weight_loss;fatigue,Chronic,"Autoimmune reaction to gluten damaging intestines. Leads to nutrient deficiency and stomach discomfort.","Gluten-free diet;Regular check-ups"
+Autoimmune Thyroiditis,fatigue;hair_loss;weight_gain;cold_intolerance,Chronic,"The immune system attacks thyroid tissue leading to hypothyroidism. Common in middle-aged women.","Medication;Monitor TSH;Balanced diet"
+Ankylosing Spondylitis,back_pain;stiffness;fatigue;posture_changes,Chronic,"A type of arthritis that fuses spinal bones. Causes pain and reduced flexibility in young adults.","Stretching;Exercise;Medication"
+
+# ------------------ BLOOD & HEMATOLOGICAL DISORDERS ------------------
+Anemia,fatigue;pale_skin;shortness_of_breath;dizziness,Moderate,"Reduced hemoglobin causes decreased oxygen delivery. Often due to iron deficiency or chronic disease.","Iron supplements;Leafy greens;Medical follow-up"
+Leukemia,fever;fatigue;bruising;infections,Severe,"A cancer of blood and bone marrow causing overproduction of white cells. Leads to weakness and recurrent infections.","Chemotherapy;Transplant;Follow-up"
+Thalassemia,fatigue;pale_skin;weakness;enlarged_spleen,Chronic,"Inherited anemia due to defective hemoglobin. Requires periodic blood transfusions.","Transfusion;Chelation;Genetic counseling"
+Sickle Cell Disease,joint_pain;fever;fatigue;yellow_skin,Chronic,"Red cells assume a sickle shape blocking blood flow. Causes pain crises and organ damage.","Hydration;Avoid cold;Pain relief"
+Hemophilia,prolonged_bleeding;bruises;joint_pain,Severe,"Inherited bleeding disorder due to clotting factor deficiency. Even small cuts may cause long bleeding.","Avoid injury;Factor therapy;Medical ID tag"
+Polycythemia,headache;dizziness;fatigue;itching,Chronic,"Abnormal increase in red blood cells thickens blood. Raises risk of stroke or clots.","Hydration;Blood removal;Medication"
+Thrombocytopenia,bruising;bleeding;fatigue;nosebleeds,Moderate,"Low platelet count leading to easy bleeding. Often caused by infection or drugs.","Avoid injury;Monitor counts;Doctor care"
+Lymphoma,swollen_lymph_nodes;fever;night_sweats;fatigue,Severe,"Cancer of lymph system causing immune dysfunction. Detected by biopsy or imaging.","Chemotherapy;Radiation;Rest"
+Myeloma,bone_pain;fatigue;weakness;frequent_infections,Severe,"A cancer of plasma cells in bone marrow. Leads to brittle bones and kidney issues.","Chemotherapy;Pain control;Hydration"
+Iron Overload,abdominal_pain;fatigue;dark_skin;joint_pain,Chronic,"Excess iron storage in body tissues damages liver and heart. Usually genetic (hemochromatosis).","Limit red meat;Blood removal;Doctor monitoring"
+
+# ------------------ VIRAL INFECTIONS ------------------
+Influenza,fever;cough;headache;fatigue;chills,Moderate,"A contagious viral infection affecting the respiratory system. Symptoms resemble cold but with higher fever and body pain.","Rest;Hydration;Antiviral medication"
+Common Cold,fever;cough;runny_nose;congestion;tiredness,Mild,"A mild viral infection of the upper airways. It’s self-limiting but spreads easily through droplets.","Rest;Warm fluids;Avoid close contact"
+COVID-19,fever;cough;shortness_of_breath;loss_of_smell;fatigue,Severe,"A contagious coronavirus infection causing respiratory distress. Severe cases affect lungs and oxygen levels.","Isolation;Mask;Monitor oxygen;Seek medical help"
+Respiratory Syncytial Virus (RSV),fever;cough;wheezing;runny_nose,Moderate,"A viral infection common in infants causing bronchiolitis. It spreads through droplets and close contact.","Hydration;Rest;Avoid cold air"
+Hepatitis A,fever;jaundice;fatigue;abdominal_pain;nausea,Moderate,"A liver infection caused by contaminated food or water. It’s preventable with vaccination.","Hand hygiene;Safe water;Vaccination"
+Hepatitis B,fever;jaundice;dark_urine;abdominal_pain,Severe,"A liver infection spread via blood and body fluids. Chronic cases may lead to liver failure or cancer.","Vaccination;Avoid sharing needles;Safe sex"
+Hepatitis C,fatigue;jaundice;joint_pain;abdominal_pain,Severe,"A blood-borne liver disease that can cause chronic infection. Early detection reduces liver damage risk.","Regular screening;Avoid unsterile needles"
+Hepatitis E,fever;jaundice;nausea;vomiting;fatigue,Moderate,"A waterborne viral infection affecting the liver. Common in developing countries with poor sanitation.","Safe drinking water;Handwashing"
+Zika Virus,fever;rash;red_eyes;joint_pain,Moderate,"A mosquito-borne viral infection causing mild illness in adults. Dangerous during pregnancy due to birth defects.","Avoid mosquitoes;Use repellents"
+Chikungunya,fever;joint_pain;rash;headache;fatigue,Moderate,"A mosquito-borne viral fever causing severe joint pain. Symptoms resemble dengue but with less bleeding.","Rest;Pain relief;Avoid mosquito bites"
+Dengue Fever,fever;rash;joint_pain;fatigue;headache;muscle_pain,Severe,"A mosquito-borne viral illness causing low platelets and bleeding risk. Severe dengue can be life-threatening.","Hydration;Monitor platelets;Avoid mosquitoes"
+Yellow Fever,fever;jaundice;muscle_pain;vomiting,Severe,"A viral infection transmitted by mosquitoes. It affects the liver and kidneys and is preventable by vaccination.","Vaccination;Hydration;Avoid mosquito bites"
+Ebola Virus,fever;vomiting;bleeding;fatigue;diarrhea,Severe,"A severe hemorrhagic fever with high fatality. It spreads through direct contact with body fluids.","Isolation;Protective gear;Supportive care"
+Rabies,fever;tingling;anxiety;hydrophobia;confusion,Severe,"A fatal viral infection transmitted through animal bites. It affects the brain and nervous system.","Vaccination;Immediate medical care"
+Herpes Simplex,blisters;itching;burning_pain;fever,Moderate,"A viral infection causing painful blisters around mouth or genitals. It remains dormant and can reactivate.","Antiviral therapy;Avoid skin contact during outbreak"
+Chickenpox,fever;itching;rash;blisters,Moderate,"A viral infection causing itchy rashes and blisters. Mostly mild but contagious until all blisters dry.","Isolation;Hydration;Avoid scratching"
+Measles,fever;rash;cough;runny_nose;red_eyes,Severe,"A contagious viral disease with rash and respiratory symptoms. It can lead to pneumonia or brain inflammation.","Vaccination;Rest;Hydration"
+Mumps,fever;swollen_jaw;painful_swallowing,Moderate,"A viral infection of salivary glands causing jaw swelling and pain. Preventable by MMR vaccine.","Vaccination;Hydration;Rest"
+Rubella,fever;rash;swollen_glands;joint_pain,Mild,"A mild viral infection with pink rash, dangerous in pregnancy. Preventable through MMR vaccination.","Vaccination;Avoid contact with pregnant women"
+Polio,weakness;paralysis;fever;muscle_pain,Severe,"A viral disease affecting nerves and causing paralysis. Eradicated in many regions through immunization.","Vaccination;Rehabilitation;Hygiene"
+
+# ------------------ BACTERIAL INFECTIONS ------------------
+Tuberculosis,fever;cough;night_sweats;weight_loss;chest_pain,Severe,"A bacterial infection of the lungs caused by Mycobacterium tuberculosis. It spreads through air droplets.","Antibiotics;Regular treatment;Avoid crowd"
+Typhoid Fever,fever;headache;abdominal_pain;constipation;nausea,Severe,"A bacterial disease from contaminated food or water. Causes prolonged fever and weakness.","Antibiotics;Hydration;Avoid street food"
+Leprosy,skin_lesions;numbness;weakness;fatigue,Chronic,"A chronic bacterial infection affecting skin and nerves. Curable with multidrug therapy if detected early.","Regular treatment;Avoid close contact"
+Diphtheria,sore_throat;fever;fatigue;swollen_neck,Severe,"A bacterial throat infection producing toxins. It may block airways if untreated.","Vaccination;Antibiotics"
+Tetanus,muscle_stiffness;lockjaw;spasms;fever,Severe,"A bacterial infection releasing toxins causing muscle rigidity. Vaccination prevents it effectively.","Vaccination;Wound cleaning;Emergency care"
+Pertussis,severe_cough;vomiting;runny_nose;fatigue,Moderate,"Also known as whooping cough, a respiratory bacterial disease. Dangerous in infants and unvaccinated people.","Vaccination;Antibiotics;Rest"
+Cholera,diarrhea;vomiting;dehydration;fatigue,Severe,"A bacterial infection from contaminated water causing severe dehydration. Without treatment, it’s fatal.","ORS;Clean water;Rehydration therapy"
+Plague,fever;chills;swollen_lymph_nodes;fatigue,Severe,"A rare bacterial infection spread by fleas on rodents. It can lead to septicemia or pneumonia.","Antibiotics;Avoid rodents;Hygiene"
+Scarlet Fever,fever;rash;sore_throat;red_tongue,Moderate,"A bacterial illness caused by Streptococcus infection. It commonly affects children after strep throat.","Antibiotics;Rest;Hydration"
+MRSA Infection,boils;pus;fever;pain,Severe,"Methicillin-resistant Staphylococcus aureus causes skin and wound infections. It’s resistant to many antibiotics.","Hygiene;Doctor consultation;Avoid sharing towels"
+Lyme Disease,fever;rash;joint_pain;fatigue,Moderate,"A bacterial infection spread by tick bites. It can affect joints and nervous system if untreated.","Avoid tick bites;Antibiotics"
+Leptospirosis,fever;chills;muscle_pain;vomiting;headache,Severe,"A bacterial infection from water contaminated by animal urine. It may affect kidneys and liver.","Avoid contaminated water;Wear boots;Antibiotics"
+Meningococcal Meningitis,fever;headache;stiff_neck;vomiting,Severe,"A bacterial infection of membranes covering brain and spine. Rapid treatment is crucial to prevent death.","Antibiotics;Vaccination;Hydration"
+
+# ------------------ FUNGAL INFECTIONS ------------------
+Fungal Infection,itching;redness;scaling;burning,Mild,"A skin infection caused by dermatophyte fungi. Commonly affects groin, feet, or scalp.","Keep dry;Antifungal cream;Avoid tight clothes"
+Candidiasis,itching;white_patches;burning;discomfort,Moderate,"Yeast infection caused by Candida, affecting mouth or genitals. Common in diabetes or antibiotic use.","Antifungal treatment;Maintain hygiene"
+Ringworm,itchy_rash;red_patches;scaling;hair_loss,Mild,"A fungal skin infection forming circular rashes. Highly contagious through contact or towels.","Antifungal cream;Avoid sharing clothes"
+Athlete’s Foot,itching;peeling_skin;redness;odor,Mild,"Fungal infection between toes due to moisture. Common in athletes or tight shoes.","Keep feet dry;Antifungal spray;Foot hygiene"
+Nail Fungus,thick_nails;discoloration;fragility,Mild,"Fungal infection under nails causing thickening and breakage. Slow to heal but treatable.","Antifungal lacquer;Trim nails;Avoid damp shoes"
+Oral Thrush,white_patches;tongue_pain;dry_mouth,Moderate,"Fungal infection of the mouth caused by Candida. Common in immunocompromised individuals.","Antifungal lozenges;Oral hygiene"
+Histoplasmosis,fever;cough;fatigue;chest_pain,Severe,"Fungal infection from soil contaminated with bird droppings. Affects lungs and can spread to organs.","Avoid dust;Antifungal drugs;Medical care"
+Aspergillosis,cough;fever;shortness_of_breath;fatigue,Severe,"Lung infection caused by inhaling Aspergillus spores. Dangerous in people with weak immunity.","Avoid moldy areas;Medication;Monitor lungs"
+
+# ------------------ PARASITIC INFECTIONS ------------------
+Malaria,fever;chills;vomiting;headache;sweating,Severe,"A mosquito-borne parasitic infection causing cyclic fever. It can damage liver and red blood cells.","Mosquito control;Antimalarial drugs;Hydration"
+Amoebiasis,diarrhea;stomach_pain;fever;fatigue,Moderate,"Parasitic intestinal infection by Entamoeba histolytica. Causes bloody diarrhea and cramps.","Clean water;Hygiene;Medication"
+Giardiasis,diarrhea;gas;cramps;bloating,Mild,"An intestinal infection caused by Giardia parasite. Spread by contaminated water or food.","Boil water;Avoid uncooked food"
+Toxoplasmosis,fever;fatigue;swollen_nodes;headache,Moderate,"Parasitic infection often spread by cats or undercooked meat. Dangerous in pregnancy.","Cook meat well;Avoid cat litter;Medication"
+Schistosomiasis,fever;abdominal_pain;bloody_urine;fatigue,Severe,"A waterborne parasitic disease caused by flukes. Common in tropical regions with stagnant water.","Avoid swimming in lakes;Medication"
+Tapeworm Infection,abdominal_pain;nausea;weight_loss;weakness,Moderate,"Intestinal parasite from contaminated meat. Causes malnutrition and discomfort.","Cook meat properly;Deworming tablets"
+Pinworm Infection,itching_anus;restlessness;sleep_disturbance,Mild,"Common in children, causes anal itching due to worm eggs. Easily spreads through contaminated hands.","Handwashing;Trim nails;Medication"
+Leishmaniasis,fever;weight_loss;skin_ulcers;fatigue,Severe,"Parasitic infection spread by sandfly bites. It affects skin, spleen, and liver.","Mosquito nets;Medication;Avoid bites"
+
+# ------------------ ENT INFECTIONS ------------------
+Sinusitis,headache;facial_pain;blocked_nose;congestion;cough,Moderate,"Sinus inflammation causing pressure and headache. Often follows cold or allergy.","Steam inhalation;Hydration;Rest"
+Tonsillitis,sore_throat;fever;difficulty_swallowing;cough,Moderate,"Inflammation of tonsils caused by viral or bacterial infection. Common in school-age children.","Salt gargle;Antibiotics if bacterial"
+Pharyngitis,throat_pain;fever;dry_cough;fatigue,Mild,"Inflammation of the throat usually viral. Causes irritation and pain when swallowing.","Warm fluids;Rest;Avoid cold drinks"
+Otitis Media,ear_pain;fever;hearing_loss;irritability,Moderate,"Middle ear infection due to bacteria or virus. Common in infants after a cold.","Pain relief;Keep ears dry;Doctor check"
+Laryngitis,hoarse_voice;sore_throat;dry_cough;fever,Mild,"Voice box inflammation causing hoarseness and pain. Often due to overuse or viral infection.","Voice rest;Warm fluids"
+Rhinitis,runny_nose;sneezing;itching;congestion,Mild,"Inflammation of nasal mucosa due to allergy or infection. Common in seasonal allergies.","Avoid allergens;Antihistamines;Nasal spray"
+
+# ------------------ GENETIC & HEREDITARY DISORDERS ------------------
+Cystic Fibrosis,cough;thick_mucus;shortness_of_breath;weight_loss,Chronic,"A genetic disorder affecting the lungs and digestive system. Mucus builds up causing frequent infections.","Airway clearance;Antibiotics;High-calorie diet"
+Sickle Cell Anemia,fatigue;pain;fever;jaundice,Chronic,"Inherited disorder causing red blood cells to become crescent-shaped. Leads to pain crises and anemia.","Hydration;Pain control;Avoid cold"
+Thalassemia,fatigue;pale_skin;weakness;enlarged_spleen,Chronic,"Inherited blood disorder reducing hemoglobin. Requires regular transfusions for severe cases.","Blood transfusion;Iron chelation;Genetic counseling"
+Hemophilia,bleeding;bruises;joint_pain,Severe,"A genetic clotting disorder causing prolonged bleeding. Mostly affects males due to X-linked inheritance.","Avoid injuries;Clotting factor therapy"
+Marfan Syndrome,tall_stature;long_limbs;chest_pain;vision_problems,Chronic,"A connective tissue disorder affecting heart, eyes, and skeleton. Increases risk of aortic rupture.","Avoid strenuous activity;Heart monitoring"
+Huntington’s Disease,memory_loss;involuntary_movements;irritability,Chronic,"An inherited neurodegenerative disease that affects movement and cognition. Symptoms worsen gradually over years.","Genetic counseling;Supportive care"
+Muscular Dystrophy,muscle_weakness;fatigue;walking_difficulty,Chronic,"A group of inherited diseases causing progressive muscle degeneration. Often starts in childhood.","Physiotherapy;Braces;Supportive care"
+Phenylketonuria (PKU),mental_retardation;seizures;skin_rash;musty_odor,Chronic,"A metabolic genetic disorder where the body can’t process phenylalanine. Untreated, it leads to brain damage.","Low-protein diet;Early screening"
+Albinism,light_skin;poor_vision;sun_sensitivity;white_hair,Chronic,"Inherited condition lacking melanin pigment. Increases risk of sunburn and vision problems.","Avoid sun;Use sunglasses;Regular eye check"
+Tay-Sachs Disease,weakness;seizures;vision_loss;developmental_delay,Severe,"A rare inherited disorder destroying nerve cells in the brain. It’s fatal in early childhood.","Genetic counseling;Supportive care"
+
+# ------------------ RARE DISEASES ------------------
+Amyloidosis,fatigue;swelling;weight_loss;tingling,Chronic,"Abnormal protein deposits (amyloid) build up in organs. It affects the heart, kidneys, and nerves.","Medication;Monitor organ function"
+Addison’s Disease,fatigue;dizziness;low_blood_pressure;weight_loss,Chronic,"Adrenal glands fail to produce hormones like cortisol. Causes dehydration and muscle weakness.","Hormone replacement;Salt intake;Medical supervision"
+Cushing’s Syndrome,weight_gain;round_face;muscle_weakness;fatigue,Chronic,"Excess cortisol from tumor or medication. Leads to obesity and fragile skin.","Hormone therapy;Surgery if needed"
+Wilson’s Disease,jaundice;fatigue;tremors;personality_change,Chronic,"A rare inherited liver disease causing copper buildup. It affects brain and liver function.","Low-copper diet;Medication;Monitor liver"
+Gaucher’s Disease,enlarged_spleen;fatigue;bone_pain;bruising,Chronic,"A genetic enzyme deficiency causing fat accumulation in organs. Causes anemia and bone pain.","Enzyme replacement;Medical therapy"
+Hemochromatosis,fatigue;joint_pain;dark_skin;abdominal_pain,Chronic,"Inherited condition causing excessive iron absorption. Iron deposits damage organs over time.","Blood removal;Avoid iron supplements"
+Myasthenia Gravis,muscle_weakness;fatigue;drooping_eyelids;difficulty_swallowing,Chronic,"An autoimmune disorder causing muscle weakness. Worsens with activity and improves with rest.","Medication;Rest;Avoid overheating"
+Scleroderma,skin_thickening;stiffness;swelling;fatigue,Chronic,"A connective tissue disease causing hardening of skin and organs. It reduces flexibility and blood flow.","Moisturizers;Avoid cold;Physiotherapy"
+Ehlers-Danlos Syndrome,joint_hyperflexibility;skin_fragility;bruising,Chronic,"A connective tissue disorder making skin stretchy and fragile. Increases risk of dislocation and bleeding.","Avoid trauma;Supportive care"
+Sarcoidosis,cough;fatigue;chest_pain;rash,Chronic,"Inflammatory disease forming small clumps in lungs and lymph nodes. It can affect multiple organs.","Medication;Avoid smoking;Regular follow-up"
+
+# ------------------ CANCER SUBTYPES ------------------
+Leukemia,fever;fatigue;bruising;weight_loss,Severe,"Cancer of blood-forming tissues leading to abnormal white cells. Causes weakness and recurrent infections.","Chemotherapy;Transplant;Follow-up"
+Lymphoma,swollen_lymph_nodes;fever;night_sweats;fatigue,Severe,"Cancer of lymphatic system impairing immunity. Detected by biopsy or scan.","Chemotherapy;Radiation;Rest"
+Multiple Myeloma,bone_pain;fatigue;weakness;frequent_infections,Severe,"A cancer of plasma cells affecting bones and kidneys. Causes brittle bones and anemia.","Chemotherapy;Pain control;Hydration"
+Melanoma,mole_change;itching;bleeding;fatigue,Severe,"A serious skin cancer developing from moles. Early detection ensures high survival rate.","Use sunscreen;Skin screening"
+Basal Cell Carcinoma,skin_lesion;redness;scaly_patch;bleeding,Mild,"Most common skin cancer caused by UV exposure. Rarely spreads but causes local damage.","Avoid sun;Dermatologist check"
+Squamous Cell Carcinoma,skin_ulcer;bleeding;painful_lesion,Moderate,"A skin cancer growing in outer layers due to UV or radiation. Can spread to lymph nodes if ignored.","Surgery;Avoid sun;Regular screening"
+Brain Tumor,headache;nausea;confusion;seizures,Severe,"Abnormal cell growth inside the brain or spinal cord. May be benign or malignant.","Surgery;Radiation;Rehabilitation"
+Thyroid Cancer,neck_swelling;voice_change;fatigue;weight_loss,Severe,"A tumor in the thyroid gland often detected as a neck lump. Early stages are curable.","Surgery;Hormone therapy"
+Bladder Cancer,blood_in_urine;fatigue;pelvic_pain,Severe,"Malignant tumor in bladder lining causing urinary symptoms. Often linked to smoking or chemicals.","Hydration;Avoid tobacco;Surgery"
+Bone Cancer,bone_pain;swelling;fatigue;weakness,Severe,"Cancer originating in bone tissue causing persistent pain. Requires chemotherapy and surgery.","Pain relief;Rehab;Oncology care"
+
+# ------------------ METABOLIC & LIFESTYLE DISORDERS ------------------
+Obesity,weight_gain;fatigue;joint_pain;breathlessness,Chronic,"Excess body fat increases risk of diabetes and heart disease. Caused by overeating and inactivity.","Exercise;Diet control;Healthy lifestyle"
+Type 2 Diabetes,excessive_thirst;fatigue;blurred_vision;frequent_urination,Chronic,"Metabolic disorder where the body resists insulin. Leads to nerve and kidney damage over time.","Diet management;Medication;Exercise"
+Type 1 Diabetes,frequent_urination;weight_loss;thirst;fatigue,Chronic,"Autoimmune destruction of insulin-producing cells. Usually diagnosed in children or young adults.","Insulin therapy;Blood sugar monitoring"
+High Cholesterol,chest_pain;fatigue;dizziness,Chronic,"Excess cholesterol builds up in arteries increasing heart disease risk. It’s often symptomless until severe.","Diet change;Exercise;Medication"
+Hypertension,headache;dizziness;chest_pain;fatigue,Chronic,"High blood pressure strains heart and vessels. Untreated cases lead to stroke or heart attack.","Monitor BP;Exercise;Low-salt diet"
+Gout,joint_pain;swelling;redness;stiffness,Chronic,"Uric acid buildup causes crystal formation in joints. Triggers include alcohol and red meat.","Avoid alcohol;Hydrate;Medication"
+Hypothyroidism,fatigue;weight_gain;cold_intolerance;dry_skin,Chronic,"Underactive thyroid slows metabolism and energy production. Common in middle-aged women.","Medication;Balanced diet;Regular thyroid check"
+Hyperthyroidism,weight_loss;anxiety;rapid_heartbeat;sweating,Chronic,"Overactive thyroid increases metabolism and causes tremors. Usually due to Graves’ disease.","Medication;Avoid caffeine;Monitor thyroid"
+Polycystic Ovary Syndrome (PCOS),irregular_periods;acne;weight_gain;hair_loss,Chronic,"Hormonal disorder in women causing irregular cycles and infertility. Linked to insulin resistance.","Diet control;Exercise;Medication"
+Metabolic Syndrome,obesity;hypertension;fatigue;high_cholesterol,Chronic,"Cluster of metabolic problems increasing heart disease risk. Caused by sedentary lifestyle.","Diet;Exercise;Weight loss"
+Sleep Apnea,snoring;fatigue;morning_headache;breath_stopping,Moderate,"Breathing repeatedly stops during sleep causing poor oxygenation. Linked to obesity and airway blockage.","Use CPAP;Weight control;Avoid alcohol"
+Fatty Liver Disease,fatigue;abdominal_pain;nausea;enlarged_liver,Chronic,"Accumulation of fat in liver cells leading to inflammation. Common in obesity and diabetes.","Avoid alcohol;Exercise;Healthy diet"
+GERD (Acid Reflux),heartburn;chest_pain;nausea;vomiting,Chronic,"Stomach acid flows back into the esophagus causing burning. Worsened by fatty food or late meals.","Eat small meals;Avoid spicy foods;Don’t lie after eating"
+Irritable Bowel Syndrome,abdominal_pain;bloating;constipation;diarrhea,Chronic,"Digestive disorder due to stress and diet imbalance. Causes discomfort and irregular bowel movement.","Fiber diet;Avoid caffeine;Stress control"
+Migraine,headache;nausea;vomiting;light_sensitivity,Moderate,"A neurological condition causing severe headaches. Often triggered by light, stress, or sleep deprivation.","Avoid triggers;Hydration;Pain relief"
+Chronic Fatigue Syndrome,fatigue;sleep_disturbance;memory_loss;muscle_pain,Chronic,"A long-term disorder causing extreme tiredness not relieved by rest. Exact cause remains unknown.","Stress reduction;Balanced diet;Gradual exercise"
+
+# ------------------ CARDIOVASCULAR DISORDERS (EXTENDED) ------------------
+Atherosclerosis,chest_pain;fatigue;shortness_of_breath;weakness,Chronic,"Hardening and narrowing of arteries due to cholesterol plaque buildup. It reduces oxygen flow to heart and brain.","Exercise;Low-fat diet;Monitor BP"
+Coronary Artery Disease,chest_pain;fatigue;shortness_of_breath;dizziness,Severe,"Blockage of coronary arteries causing decreased blood supply to heart. Major risk factor for heart attack.","Avoid smoking;Exercise;Healthy diet"
+Myocardial Infarction,chest_pain;sweating;nausea;breathlessness,Severe,"Also known as heart attack — caused by sudden artery blockage. Immediate medical attention is life-saving.","Call emergency;Rest;Aspirin if prescribed"
+Congestive Heart Failure,breathlessness;swelling;fatigue;cough,Severe,"Heart's pumping ability weakens leading to fluid buildup in lungs or legs. Often follows hypertension or heart attack.","Salt restriction;Medication;Monitor weight"
+Cardiomyopathy,breathlessness;fatigue;chest_pain;palpitations,Chronic,"Heart muscle becomes weak or enlarged reducing pumping efficiency. It can be genetic or stress-induced.","Avoid alcohol;Medication;Heart monitoring"
+Endocarditis,fever;chills;fatigue;chest_pain,Severe,"Bacterial infection of heart valves causing inflammation. Untreated cases lead to heart failure or embolism.","Antibiotics;Dental hygiene;Hospitalization"
+Pericarditis,chest_pain;fever;fatigue;shortness_of_breath,Moderate,"Inflammation of the membrane around the heart. Pain worsens when lying flat and eases while sitting forward.","Pain relief;Rest;Avoid infection"
+Arrhythmia,palpitations;fainting;fatigue;dizziness,Moderate,"Irregular heartbeat that may cause lightheadedness or fainting. Some forms can be fatal if untreated.","Avoid caffeine;Medication;ECG monitoring"
+Aortic Aneurysm,chest_pain;back_pain;weakness;dizziness,Severe,"Bulging of the aorta due to wall weakness. If ruptured, it causes massive internal bleeding.","Regular scan;Blood pressure control;Avoid heavy lifting"
+Peripheral Artery Disease,leg_pain;cramps;cold_feet;numbness,Chronic,"Narrowing of arteries in limbs causing pain while walking. Common in smokers and diabetics.","Exercise;Avoid smoking;Medication"
+Deep Vein Thrombosis,leg_pain;swelling;redness;warmth,Severe,"Blood clot formation in deep veins, usually in legs. Can cause pulmonary embolism if dislodged.","Avoid long sitting;Compression stockings;Anticoagulants"
+Varicose Veins,swollen_veins;leg_pain;itching;fatigue,Moderate,"Enlarged twisted veins caused by poor valve function. More common in standing jobs and pregnancy.","Compression socks;Leg elevation;Exercise"
+Pulmonary Embolism,chest_pain;shortness_of_breath;cough;dizziness,Severe,"Blood clot travels to lungs blocking blood flow. A life-threatening emergency requiring immediate care.","Hospitalization;Anticoagulants;Avoid immobility"
+
+# ------------------ PULMONARY (RESPIRATORY SYSTEM) ------------------
+Asthma,wheezing;cough;shortness_of_breath;chest_tightness,Chronic,"Chronic inflammation of airways causing reversible breathing difficulty. Triggers include dust and cold air.","Inhaler;Avoid allergens;Breathing exercises"
+Chronic Obstructive Pulmonary Disease (COPD),cough;breathlessness;phlegm;fatigue,Chronic,"A progressive lung disease mostly caused by smoking. Includes chronic bronchitis and emphysema.","Avoid smoking;Inhalers;Oxygen therapy"
+Bronchitis,cough;chest_congestion;wheezing;fatigue,Moderate,"Inflammation of bronchial tubes leading to mucus buildup. Caused by infection or smoking.","Rest;Steam inhalation;Avoid pollutants"
+Pneumonia,fever;cough;chest_pain;phlegm;shortness_of_breath,Severe,"Infection causing fluid accumulation in lungs. Can be viral, bacterial, or fungal.","Antibiotics;Rest;Hydration"
+Tuberculosis,fever;chronic_cough;night_sweats;weight_loss,Severe,"Contagious lung infection by Mycobacterium tuberculosis. Requires long-term antibiotic treatment.","Medication;Avoid crowd;Good ventilation"
+Lung Cancer,cough;weight_loss;chest_pain;fatigue,Severe,"Malignant tumor in lung tissue mostly caused by smoking. Detected by imaging and biopsy.","Avoid smoking;Chemotherapy;Regular screening"
+Pulmonary Fibrosis,shortness_of_breath;dry_cough;fatigue,Chronic,"Scarring of lung tissue making breathing difficult. Can result from toxins or autoimmune disorders.","Avoid dust;Oxygen therapy;Medication"
+Emphysema,breathlessness;cough;fatigue;weight_loss,Chronic,"Destruction of lung alveoli due to smoking or pollutants. Causes chronic oxygen deficiency.","Quit smoking;Inhaler;Pulmonary rehab"
+Bronchiectasis,chronic_cough;phlegm;fever;fatigue,Chronic,"Permanent widening of bronchi leading to frequent infections. Causes persistent cough with mucus.","Physiotherapy;Antibiotics;Hydration"
+Sleep Apnea,snoring;fatigue;morning_headache;breath_stopping,Moderate,"Breathing pauses during sleep reducing oxygen levels. Often linked to obesity or airway obstruction.","CPAP machine;Weight loss;Avoid alcohol"
+Sarcoidosis,cough;chest_pain;fatigue;fever,Chronic,"Inflammatory disease forming granulomas in lungs or skin. Severity varies by organ involvement.","Steroids;Avoid infection;Monitor lungs"
+Pleural Effusion,shortness_of_breath;chest_pain;cough,Severe,"Fluid buildup between lung layers compressing the lungs. Usually secondary to infection or cancer.","Drain fluid;Treat cause;Avoid lying flat"
+Pneumothorax,sharp_chest_pain;shortness_of_breath;cough,Severe,"Collapsed lung due to air leakage into pleural space. Can occur spontaneously or from trauma.","Emergency care;Oxygen therapy"
+
+# ------------------ RENAL & URINARY DISORDERS ------------------
+Kidney Stones,back_pain;pain_urination;nausea;vomiting,Severe,"Hard mineral deposits forming in kidneys or urinary tract. Causes severe pain when passing through ureter.","Hydration;Pain relief;Medical removal if large"
+Chronic Kidney Disease,fatigue;swelling;urine_change;nausea,Chronic,"Gradual loss of kidney function leading to toxin buildup. Often caused by diabetes or hypertension.","Low-protein diet;Dialysis;Monitor creatinine"
+Acute Kidney Injury,decreased_urine;fatigue;nausea;swelling,Severe,"Sudden kidney failure due to dehydration, infection, or drugs. Potentially reversible if treated early.","IV fluids;Avoid toxins;Hospital care"
+Glomerulonephritis,swelling;blood_in_urine;fatigue;fever,Severe,"Inflammation of kidney filters caused by infection or autoimmune disease. Leads to fluid retention and high BP.","Medication;Monitor BP;Rest"
+Nephrotic Syndrome,swelling;fatigue;foamy_urine;loss_of_appetite,Severe,"Kidney disorder causing protein loss in urine. Common in children and diabetics.","Low-salt diet;Steroids;Medical follow-up"
+Polycystic Kidney Disease,back_pain;swelling;fatigue;frequent_urination,Chronic,"Inherited disorder where fluid-filled cysts form in kidneys. Causes progressive kidney failure.","Monitor BP;Hydration;Avoid injury"
+Urinary Tract Infection,frequent_urination;burning_urination;fever;pelvic_pain,Moderate,"Bacterial infection in urinary tract, common in females. Causes burning and lower abdominal pain.","Antibiotics;Hydration;Hygiene"
+Interstitial Cystitis,bladder_pain;urgency;frequency;fatigue,Chronic,"Chronic bladder inflammation without infection. Causes persistent pelvic pain and urinary frequency.","Avoid caffeine;Hydration;Medication"
+Prostatitis,frequent_urination;pelvic_pain;burning_urination,Moderate,"Inflammation of prostate gland causing pain and discomfort. May be bacterial or chronic non-bacterial.","Antibiotics;Rest;Hydration"
+Renal Failure,fatigue;swelling;confusion;urine_change,Severe,"End-stage loss of kidney function leading to toxin accumulation. Requires dialysis or transplant.","Dialysis;Monitor diet;Doctor supervision"
+Hydronephrosis,flank_pain;nausea;frequent_urination,Moderate,"Swelling of kidneys due to urine backup. Usually caused by stones or obstruction.","Treat cause;Hydration;Monitor kidney"
+Pyelonephritis,fever;back_pain;nausea;chills,Severe,"Bacterial infection of kidneys spreading from bladder. Can cause sepsis if untreated.","Antibiotics;Hydration;Rest"
+
+# ------------------ SYSTEMIC & VASCULAR DISORDERS ------------------
+Vasculitis,fever;fatigue;joint_pain;rash,Severe,"Inflammation of blood vessels affecting multiple organs. Leads to poor circulation and tissue damage.","Steroids;Avoid infection;Medical follow-up"
+Raynaud’s Disease,blue_fingers;cold_intolerance;numbness;pain,Moderate,"Abnormal narrowing of small blood vessels in fingers due to cold. Common in autoimmune disorders.","Keep warm;Avoid stress;No smoking"
+Thrombophlebitis,swelling;pain;redness;warmth,Moderate,"Inflammation of veins with clot formation. Common in varicose veins or prolonged immobility.","Elevation;Compression;Anticoagulants"
+Lymphedema,swelling;heaviness;infection_risk,Chronic,"Fluid buildup due to lymphatic obstruction. Can follow cancer surgery or infection.","Compression therapy;Exercise;Skin care"
+Septicemia,fever;chills;confusion;low_BP,Severe,"Life-threatening bloodstream infection spreading from other organs. Requires urgent antibiotics.","Hospitalization;IV fluids;Monitor vitals"
+Shock,low_BP;confusion;weak_pulse;pale_skin,Severe,"Sudden drop in blood flow due to trauma, infection, or allergy. Leads to organ failure if untreated.","Emergency care;IV fluids;Treat cause"
+
+# ------------------ NEUROMUSCULAR DISORDERS ------------------
+Amyotrophic Lateral Sclerosis (ALS),muscle_weakness;cramps;slurred_speech;fatigue,Severe,"A progressive neurodegenerative disease that destroys motor neurons. Causes loss of muscle control and breathing difficulty.","Physiotherapy;Respiratory support;Assistive devices"
+Guillain-Barre Syndrome,weakness;numbness;tingling;paralysis,Severe,"An autoimmune disorder where immune cells attack peripheral nerves. Can progress rapidly but often recoverable.","Hospitalization;Plasma exchange;Rehabilitation"
+Myasthenia Gravis,muscle_weakness;drooping_eyelids;fatigue;difficulty_swallowing,Chronic,"An autoimmune disease impairing nerve-muscle communication. Symptoms worsen with activity and improve with rest.","Medication;Rest;Avoid overheating"
+Peripheral Neuropathy,numbness;tingling;pain;weakness,Chronic,"Nerve damage causing burning or loss of sensation in hands and feet. Common in diabetes and alcohol abuse.","Control diabetes;Vitamin B;Avoid alcohol"
+Bell’s Palsy,facial_paralysis;drooling;eye_irritation;ear_pain,Moderate,"Sudden paralysis of one side of the face due to facial-nerve inflammation. Usually temporary and recovers within weeks.","Eye care;Physiotherapy;Steroids"
+Cerebral Palsy,movement_disorder;stiffness;delayed_development;seizures,Chronic,"Brain damage before or at birth affecting movement and posture. Non-progressive but lifelong.","Physiotherapy;Occupational therapy;Assistive devices"
+Multiple System Atrophy,stiffness;balance_loss;slurred_speech;low_BP,Severe,"A rare neurodegenerative disorder combining Parkinson-like and autonomic symptoms.","Medication;Physiotherapy;Supportive care"
+Muscular Dystrophy,muscle_weakness;fatigue;walking_difficulty,Chronic,"Genetic disorders causing progressive muscle loss. Often leads to wheelchair dependency.","Physiotherapy;Braces;Genetic counseling"
+
+# ------------------ SKELETAL & POSTURAL DISORDERS ------------------
+Osteoarthritis,joint_pain;stiffness;swelling;limited_movement,Chronic,"Degeneration of joint cartilage leading to pain and reduced mobility. Common in knees and hips.","Exercise;Weight control;Pain medication"
+Rheumatoid Arthritis,joint_pain;swelling;fatigue;stiffness,Chronic,"Autoimmune inflammation of joints causing deformity if untreated. Affects multiple joints symmetrically.","Anti-inflammatory drugs;Rest;Physiotherapy"
+Ankylosing Spondylitis,back_pain;stiffness;fatigue;reduced_flexibility,Chronic,"Inflammatory arthritis affecting spine and sacroiliac joints. Causes stooped posture over time.","Stretching;Medication;Posture correction"
+Cervical Spondylosis,neck_pain;stiffness;shoulder_pain;headache,Chronic,"Wear-and-tear of cervical spine causing nerve compression and pain.","Physiotherapy;Ergonomic posture;Pain relief"
+Scoliosis,spinal_curvature;back_pain;fatigue;postural_imbalance,Moderate,"Abnormal sideways curvature of spine seen in adolescence. Severe cases affect breathing.","Bracing;Exercise;Surgery if needed"
+Kyphosis,hunchback;back_pain;stiffness;fatigue,Moderate,"Excessive forward curvature of upper spine. Caused by poor posture or osteoporosis.","Physiotherapy;Core strengthening"
+Lordosis,lower_back_pain;poor_posture;muscle_tightness,Moderate,"Inward curvature of lower spine due to muscle imbalance. Improves with stretching and strengthening.","Posture correction;Exercise"
+Osteoporosis,bone_pain;fractures;fatigue;height_loss,Chronic,"Weak bones due to mineral loss increasing fracture risk. Common in older women.","Calcium;Vitamin D;Weight-bearing exercise"
+Paget’s Disease,bone_pain;deformity;hearing_loss;fatigue,Chronic,"Abnormal bone remodeling leading to enlarged and weak bones. Affects pelvis, spine, and skull.","Medication;Physical therapy"
+Fibromyalgia,body_pain;fatigue;sleep_problems;memory_issue,Chronic,"Chronic pain disorder causing tenderness and exhaustion. Often linked to stress and poor sleep.","Stress control;Gentle exercise;Sleep hygiene"
+
+# ------------------ ENDOCRINE & HORMONAL DISORDERS ------------------
+Addison’s Disease,fatigue;dizziness;low_BP;weight_loss,Chronic,"Adrenal insufficiency reducing cortisol and aldosterone. Leads to dehydration and salt craving.","Hormone replacement;Regular checkups"
+Cushing’s Syndrome,weight_gain;round_face;thin_skin;fatigue,Chronic,"Excess cortisol from steroids or tumor. Causes fragile skin and mood swings.","Hormone therapy;Reduce steroids;Surgery if needed"
+Hyperparathyroidism,bone_pain;fatigue;nausea;frequent_urination,Chronic,"Overactive parathyroid raising calcium levels. Leads to kidney stones and bone fragility.","Surgery;Hydration;Monitor calcium"
+Hypoparathyroidism,muscle_cramps;tingling;fatigue;hair_loss,Moderate,"Low parathyroid hormone causing calcium deficiency and muscle spasms.","Calcium supplements;Vitamin D"
+Pheochromocytoma,headache;sweating;palpitations;anxiety,Severe,"A rare adrenal tumor producing excess adrenaline. Causes spikes in blood pressure.","Surgery;Medication;Monitor BP"
+Pituitary Tumor,headache;vision_loss;fatigue;hormone_imbalance,Severe,"Abnormal growth in pituitary gland affecting hormone levels. May cause infertility or acromegaly.","Surgery;Hormone therapy;Follow-up"
+Acromegaly,enlarged_hands;facial_changes;joint_pain;fatigue,Chronic,"Excess growth hormone in adults causing bone thickening and organ enlargement.","Surgery;Medication;Monitor hormone levels"
+Diabetes Insipidus,excessive_thirst;frequent_urination;dehydration,Chronic,"Hormone disorder reducing kidney’s water retention ability. Leads to extreme thirst and diluted urine.","Desmopressin;Hydration;Monitor electrolytes"
+Polycystic Ovary Syndrome,irregular_periods;acne;weight_gain;infertility,Chronic,"Hormonal imbalance causing cysts on ovaries and insulin resistance. Affects fertility and mood.","Diet;Exercise;Hormonal therapy"
+Menopause,hot_flashes;irritability;insomnia;fatigue,Moderate,"Natural decline of female hormones ending menstrual cycle. Can cause mood and sleep changes.","Hormone therapy;Healthy lifestyle;Cool environment"
+Premenstrual Syndrome,abdominal_pain;mood_swings;fatigue;headache,Mild,"Physical and emotional symptoms before menstruation. Related to hormonal fluctuations.","Balanced diet;Hydration;Exercise"
+Hyperprolactinemia,irregular_periods;milk_discharge;infertility;headache,Moderate,"High prolactin levels due to pituitary dysfunction. Can cause infertility and visual disturbances.","Medication;MRI check;Endocrine care"
+
+# ------------------ CHRONIC PAIN & REHABILITATION SYNDROMES ------------------
+Chronic Back Pain,lower_back_pain;stiffness;fatigue;numbness,Chronic,"Persistent spinal pain due to injury or poor posture. Common occupational issue.","Posture correction;Stretching;Pain therapy"
+Cervical Radiculopathy,neck_pain;arm_pain;numbness;tingling,Moderate,"Nerve compression in cervical spine radiating pain to arm and shoulder.","Physiotherapy;Avoid strain;Medication"
+Sciatica,back_pain;leg_pain;tingling;numbness,Moderate,"Pain along the sciatic nerve due to herniated disc or compression. Worsens with prolonged sitting.","Stretching;Heat therapy;Exercise"
+Carpal Tunnel Syndrome,hand_numbness;tingling;weak_grip;pain,Moderate,"Median nerve compression at wrist causing hand pain and weakness. Common in computer users.","Ergonomic setup;Splints;Rest"
+Tendonitis,joint_pain;swelling;stiffness;weakness,Mild,"Inflammation of tendons due to overuse or strain. Common in shoulders and wrists.","Rest;Ice;Stretching"
+Bursitis,swelling;joint_pain;warmth;redness,Moderate,"Inflammation of fluid sacs cushioning joints. Causes pain during movement.","Rest;Cold compress;Anti-inflammatory drugs"
+Plantar Fasciitis,heel_pain;stiffness;swelling;fatigue,Moderate,"Inflammation of plantar tissue under foot causing sharp heel pain. Common in runners.","Stretching;Proper footwear;Rest"
+Frozen Shoulder,stiffness;shoulder_pain;restricted_movement,Moderate,"Inflammation and thickening of shoulder capsule limiting motion. Often post-injury or diabetes-related.","Physiotherapy;Heat therapy;Pain relief"
+Tennis Elbow,forearm_pain;stiffness;weakness;swelling,Mild,"Tendon strain from repetitive motion affecting elbow. Pain worsens during grip.","Rest;Brace;Physiotherapy"
+Fibromyalgia Syndrome,body_pain;fatigue;sleep_problems;memory_issue,Chronic,"Widespread pain disorder involving muscles and soft tissues. Often overlaps with anxiety or depression.","Relaxation;Exercise;Sleep therapy"
+Chronic Regional Pain Syndrome,burning_pain;swelling;color_change;stiffness,Chronic,"Nerve dysfunction causing severe pain after injury or surgery. Pain is disproportionate to trauma.","Pain management;Desensitization therapy"
+Temporomandibular Joint Disorder,jaw_pain;clicking_sound;headache;ear_pain,Moderate,"Jaw joint inflammation leading to chewing difficulty and ear pain.","Soft diet;Stress control;Mouth guard"
+
+# ------------------ IMMUNOLOGICAL & ALLERGIC DISORDERS ------------------
+Allergic Rhinitis,sneezing;runny_nose;itchy_eyes;congestion,Mild,"An allergic reaction to dust or pollen causing nasal inflammation. Symptoms peak during seasonal changes.","Avoid allergens;Antihistamines;Wear mask"
+Asthma,wheezing;cough;shortness_of_breath;chest_tightness,Chronic,"Chronic airway inflammation triggered by allergens or cold. Causes breathing difficulty and wheezing.","Inhaler;Avoid dust;Stay hydrated"
+Eczema,itching;dry_skin;redness;scaling,Chronic,"Chronic inflammatory skin condition with itching and dryness. Often worsened by stress or irritants.","Moisturize;Avoid harsh soaps;Use mild creams"
+Psoriasis,scaling;itching;red_patches;dry_skin,Chronic,"Autoimmune skin disorder causing scaly plaques. Common on elbows and scalp.","Moisturizer;Avoid triggers;Topical therapy"
+Contact Dermatitis,itching;redness;burning;blisters,Mild,"Inflammatory skin reaction to irritants or allergens. Heals with avoidance and topical care.","Avoid irritant;Apply cream;Cold compress"
+Drug Allergy,rash;itching;swelling;breathing_difficulty,Severe,"Immune overreaction to medication causing hives or anaphylaxis. Requires urgent medical attention.","Stop medication;Antihistamines;Seek emergency care"
+Food Allergy,itching;swelling;vomiting;breathing_difficulty,Severe,"Immune system reaction to certain foods like nuts or seafood. Can lead to anaphylaxis if untreated.","Avoid allergens;Carry epinephrine;Doctor supervision"
+Anaphylaxis,swelling;breathing_difficulty;low_BP;hives,Critical,"Severe systemic allergic reaction causing airway closure. Immediate treatment with adrenaline is vital.","Epinephrine injection;Emergency care;Avoid triggers"
+Lupus,fatigue;rash;joint_pain;fever,Chronic,"Autoimmune disease attacking multiple organs and skin. Flares worsen with stress or sunlight.","Steroids;Avoid UV exposure;Medication"
+Rheumatoid Arthritis,joint_pain;swelling;fatigue;stiffness,Chronic,"Autoimmune inflammation damaging joint linings. Causes deformity and disability if untreated.","Medication;Physiotherapy;Rest"
+Sjögren’s Syndrome,dry_eyes;dry_mouth;fatigue;joint_pain,Chronic,"Autoimmune disorder reducing tear and saliva production. Causes chronic dryness and discomfort.","Stay hydrated;Eye drops;Regular check-ups"
+Celiac Disease,diarrhea;bloating;weight_loss;fatigue,Chronic,"Autoimmune reaction to gluten damaging small intestine. Causes nutrient malabsorption.","Gluten-free diet;Vitamin supplements"
+Hashimoto’s Thyroiditis,fatigue;weight_gain;cold_intolerance;hair_loss,Chronic,"Autoimmune thyroid disease causing underactive metabolism. Common in women.","Thyroid medication;Balanced diet;Regular thyroid test"
+Graves’ Disease,weight_loss;anxiety;rapid_heartbeat;sweating,Chronic,"Autoimmune hyperthyroidism causing increased metabolism. Often with eye bulging or tremors.","Medication;Avoid caffeine;Monitor thyroid"
+
+# ------------------ BLOOD & ONCOLOGICAL DISORDERS (EXTENDED) ------------------
+Leukemia,fatigue;bruising;fever;infections,Severe,"Cancer of blood-forming tissues producing abnormal white cells. Weakens immunity and causes anemia.","Chemotherapy;Transfusion;Follow-up"
+Lymphoma,swollen_nodes;fever;night_sweats;fatigue,Severe,"Cancer of lymphatic system causing swelling and fever. Treated with chemo or radiation.","Chemotherapy;Rest;Medical monitoring"
+Multiple Myeloma,bone_pain;fatigue;weakness;infections,Severe,"Cancer of plasma cells in bone marrow. Causes brittle bones and kidney issues.","Chemotherapy;Pain control;Hydration"
+Anemia,fatigue;pale_skin;dizziness;shortness_of_breath,Moderate,"Deficiency of red blood cells or hemoglobin causing fatigue. Often linked to poor nutrition or chronic disease.","Iron-rich diet;Supplements"
+Sickle Cell Disease,joint_pain;fever;fatigue;jaundice,Chronic,"Inherited red blood cell disorder causing blockages and pain crises. Common in tropical regions.","Hydration;Pain management;Avoid cold"
+Thalassemia,fatigue;pale_skin;weakness;enlarged_spleen,Chronic,"Genetic anemia requiring frequent transfusions. Leads to iron overload and fatigue.","Transfusion;Chelation therapy;Genetic counseling"
+Hemophilia,bleeding;bruising;joint_pain,Severe,"Inherited bleeding disorder due to clotting factor deficiency. Even small cuts cause prolonged bleeding.","Avoid injury;Clotting therapy;Medical supervision"
+Polycythemia,headache;itching;dizziness;fatigue,Chronic,"Overproduction of red blood cells thickening blood. Increases risk of stroke or clots.","Blood removal;Medication;Hydration"
+Thrombocytopenia,bleeding;bruising;nosebleeds;fatigue,Moderate,"Low platelet count causing easy bleeding and bruising. May follow viral infections or drugs.","Avoid injury;Monitor counts;Doctor visit"
+Myelodysplastic Syndrome,fatigue;infections;bruising;fever,Severe,"Pre-leukemic condition causing abnormal bone marrow cell production. Progresses to anemia and weakness.","Transfusion;Medication;Monitoring"
+Hodgkin’s Lymphoma,swollen_lymph_nodes;fever;weight_loss;sweating,Severe,"Type of blood cancer with abnormal lymphocyte growth. High cure rate with early therapy.","Chemotherapy;Radiation;Healthy diet"
+Non-Hodgkin’s Lymphoma,fever;fatigue;enlarged_nodes;night_sweats,Severe,"Group of lymphatic cancers with variable progression. Detected by biopsy and imaging.","Medication;Chemotherapy;Rest"
+
+# ------------------ TROPICAL & NEGLECTED DISEASES ------------------
+Malaria,fever;chills;headache;sweating;vomiting,Severe,"Parasitic infection spread by mosquitoes. Causes cyclic fever and anemia.","Mosquito nets;Antimalarial drugs;Hydration"
+Dengue,fever;rash;joint_pain;muscle_pain;fatigue,Severe,"Mosquito-borne viral fever causing pain and platelet loss. Severe cases lead to dengue hemorrhagic fever.","Hydration;Avoid mosquito bites;Monitor platelets"
+Chikungunya,fever;joint_pain;fatigue;rash,Moderate,"Viral infection transmitted by mosquitoes causing severe joint pain. Symptoms can last for weeks.","Hydration;Rest;Pain relief"
+Zika Virus,fever;rash;joint_pain;red_eyes,Mild,"Mosquito-transmitted virus often mild but dangerous in pregnancy. Can cause fetal abnormalities.","Mosquito protection;Rest;Hydration"
+Yellow Fever,fever;jaundice;vomiting;muscle_pain,Severe,"Viral infection transmitted by mosquitoes causing liver damage and bleeding. Vaccine-preventable.","Vaccination;Avoid mosquito bites;Rest"
+Leptospirosis,fever;chills;muscle_pain;vomiting;headache,Severe,"Bacterial infection from contaminated water or soil. Affects liver and kidneys.","Avoid dirty water;Antibiotics;Hydration"
+Typhoid,fever;headache;abdominal_pain;nausea,Severe,"Bacterial infection spread by contaminated food and water. Causes prolonged high fever.","Avoid street food;Antibiotics;Hydration"
+Cholera,diarrhea;vomiting;dehydration;fatigue,Severe,"Bacterial infection causing rapid dehydration. Spread through contaminated water.","Drink ORS;Rehydration;Avoid dirty water"
+Plague,fever;swollen_nodes;weakness;chills,Severe,"Bacterial infection transmitted by fleas or rodents. Historically caused pandemics.","Antibiotics;Rodent control;Hygiene"
+Filariasis,swelling;fever;fatigue;itching,Chronic,"Parasitic infection transmitted by mosquitoes causing limb swelling. Common in tropical areas.","Mosquito protection;Medication;Hygiene"
+Kala-Azar (Leishmaniasis),fever;weight_loss;enlarged_spleen;fatigue,Severe,"Parasitic disease spread by sandflies affecting liver and spleen. Fatal if untreated.","Antiparasitic drugs;Avoid sandflies"
+African Trypanosomiasis,sleep_disturbance;fever;confusion;weakness,Severe,"Also known as sleeping sickness — transmitted by tsetse flies. Affects nervous system and causes coma.","Antiparasitic therapy;Vector control"
+Schistosomiasis,abdominal_pain;bloody_urine;fatigue,Chronic,"Parasitic worms infecting blood vessels via freshwater. Causes liver and urinary damage.","Avoid stagnant water;Medication"
+Onchocerciasis,itching;skin_rash;vision_loss,Chronic,"River blindness caused by parasitic worms spread by flies. Causes skin and eye lesions.","Antiparasitic drugs;Avoid river exposure"
+Ebola Virus,fever;vomiting;bleeding;weakness;confusion,Critical,"Severe viral hemorrhagic fever with high fatality. Spread through body fluids or contact.","Isolation;Hydration;Protective gear"
+Marburg Virus,fever;bleeding;vomiting;weakness,Critical,"Deadly viral infection similar to Ebola. Causes severe hemorrhage and organ failure.","Isolation;Hydration;Medical emergency"
+Rabies,fever;anxiety;hydrophobia;paralysis,Critical,"Fatal viral disease transmitted by animal bites. Affects nervous system causing aggression and paralysis.","Vaccination;Post-exposure shots;Avoid stray animals"
+Tetanus,muscle_stiffness;lockjaw;spasms;fever,Severe,"Bacterial toxin infection causing muscle contractions. Spread through wounds or rust exposure.","Vaccination;Wound cleaning;Emergency care"
+Anthrax,fever;cough;skin_ulcer;breathing_difficulty,Severe,"Bacterial infection from animal products or inhalation. Can be fatal if untreated.","Vaccination;Antibiotics;Avoid animal contact"
+Brucellosis,fever;joint_pain;sweating;fatigue,Moderate,"Bacterial infection from unpasteurized dairy or animals. Causes chronic fever and muscle pain.","Avoid raw dairy;Antibiotics"
+Hantavirus,fever;cough;shortness_of_breath;fatigue,Severe,"Viral disease from rodent droppings causing lung failure. High mortality if untreated.","Avoid rodents;Clean hygiene;Hospitalization"
+Nipah Virus,fever;confusion;seizures;respiratory_distress,Critical,"Deadly zoonotic virus affecting brain and lungs. Transmitted from bats or pigs.","Avoid bats;Isolation;Hospital management"
+
