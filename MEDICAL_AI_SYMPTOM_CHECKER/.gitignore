@@ -1,0 +1,82 @@
+# ==========================
+# 🧠 PYTHON & AI–ML PROJECTS
+# ==========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and caches
+*.log
+*.tmp
+*.bak
+.cache/
+pip-log.txt
+*.pickle
+*.pkl
+
+# Data and models (large files)
+models/*.pkl
+models/*.joblib
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# PyInstaller / build outputs
+build/
+dist/
+*.spec
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+ehthumbs.db
+Icon?
+
+# Reports / exports
+*.pdf
+*.docx
+*.xlsx
+*.xls
+
+# Auto-generated audio/voice files
+*.wav
+*.mp3
+*.mp4
+
+# Temporary test files
+temp/
+test_output/
+debug.log
+
+# Streamlit cache (if you add Streamlit later)
+.streamlit/
+
+# Tkinter GUI window icons, screenshots
+screenshots/
+assets/
+
+# ==========================
+# END OF FILE
+# ==========================
