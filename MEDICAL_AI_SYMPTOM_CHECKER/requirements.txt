@@ -1,0 +1,22 @@
+# Core ML and data libraries
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.5.2
+
+# GUI and text-to-speech
+tk==0.1.0
+pyttsx3==2.90
+
+# NLP and parsing
+nltk==3.9.1
+regex==2025.11.3
+
+# Similarity and fuzzy logic
+difflib==0.1
+
+# Optional utilities
+tqdm==4.67.1
+joblib==1.4.2
+
+# Ensure compatibility for model loading
+pickle5==0.0.12
